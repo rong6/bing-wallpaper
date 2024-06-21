@@ -32,4 +32,6 @@ jobs:
         git commit -m "Add wallpaper for $(date +'%Y-%m-%d')"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}'
+        ENABLE_ERROR_LOGS: False
+        
