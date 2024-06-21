@@ -52,6 +52,7 @@ def main():
                 break
             elif count >= 10:
                 print(f"[{count}] Error: {e} - Failed to download image,exiting...")
+                break
         else:
             print(f"Downloaded image in {count} attempt(s).")
             break
