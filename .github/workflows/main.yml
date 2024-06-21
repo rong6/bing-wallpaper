@@ -29,6 +29,7 @@ jobs:
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add ./images/*.jpg
+        git add ./images/*.txt
         git commit -m "Add wallpaper for $(date +'%Y-%m-%d')"
         git push
       env:
