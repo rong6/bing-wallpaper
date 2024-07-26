@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-07-26.jpg', name: '塞纳河上的新桥，巴黎，法国 (© f11photo/Getty Images)' },
         { src: './images/2024-07-25.jpg', name: '大烟山国家公园的森林小道，田纳西州，美国 (© putmanphoto/Getty Images)' },
         { src: './images/2024-07-24.jpg', name: '北约克郡的黑面羊羊群，英格兰 (© R A Kearton/Getty Images)' },
         { src: './images/2024-07-23.jpg', name: '迈索尼城堡，麦西尼亚州，希腊 (© Andrew Mayovskyy/Shutterstock)' },
