@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-07-30.jpg', name: '圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚 (© MNStudio/Shutterstock)' },
         { src: './images/2024-07-29.jpg', name: '科贝国家公园的老虎兄弟，北阿坎德邦，印度 (© Sourabh Bharti/Getty Images)' },
         { src: './images/2024-07-28.jpg', name: '斯科讷省海滩上的浴场小屋，瑞典 (© Martin Wahlborg/Getty Images)' },
         { src: './images/2024-07-27.jpg', name: '摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国 (© Jorg Greuel/Getty Images)' },
