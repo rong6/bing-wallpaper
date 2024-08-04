@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-08-04.jpg', name: '黑斑羚和红嘴牛椋鸟，南非 (© Matrishva Vyas/Getty Images)' },
         { src: './images/2024-08-03.jpg', name: '天生三桥，重庆武隆岩溶国家地质公园，中国 (© Pav-Pro Photography Ltd/Shutterstock)' },
         { src: './images/2024-08-02.jpg', name: '象鼻湾，维尔京群岛国家公园，圣约翰岛 (© wheatley/Getty Images)' },
         { src: './images/2024-08-01.jpg', name: '卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)' },
