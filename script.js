@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-08-10.jpg', name: '约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)' },
         { src: './images/2024-08-09.jpg', name: '库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)' },
         { src: './images/2024-08-08.jpg', name: '横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)' },
         { src: './images/2024-08-07.jpg', name: '圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)' },
