@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-08-17.jpg', name: '阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)' },
         { src: './images/2024-08-16.jpg', name: '长岛温泉乐园的过山车，三重县，日本 (© Japanese amateur photographer/Getty Images)' },
         { src: './images/2024-08-15.jpg', name: '韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)' },
         { src: './images/2024-08-14.jpg', name: '澳洲魔蜥，瓦塔卡国家公园，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)' },
