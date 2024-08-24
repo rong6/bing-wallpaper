@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-08-24.jpg', name: '卡塔丁森林和水域国家纪念碑，佩诺布斯科特县，缅因州，美国 (© Cavan Images/Alamy Stock Photo)' },
         { src: './images/2024-08-23.jpg', name: '帕侬蓝寺，武里南府，泰国 (© Banjongseal324/Getty Images)' },
         { src: './images/2024-08-22.jpg', name: '海洋城日出时的鸟瞰图，马里兰州，美国 (© Kevin Olson/Amazing Aerial Agency)' },
         { src: './images/2024-08-21.jpg', name: '纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)' },
