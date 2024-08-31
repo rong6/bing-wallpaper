@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-08-31.jpg', name: '撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚 (© Airpano/Amazing Aerial Agency)' },
         { src: './images/2024-08-30.jpg', name: '鸟头湾的鲸鲨，西巴布亚，印度尼西亚 (© Andy Lerner/Tandem Stills + Motion)' },
         { src: './images/2024-08-29.jpg', name: '富利特堡-德拉罗卡，加泰罗尼亚，西班牙 (© Eloi_Omella/Getty Images)' },
         { src: './images/2024-08-28.jpg', name: '蒙马特和圣心大教堂，巴黎，法国 (© Tuul & Bruno Morandi/Getty Images)' },
