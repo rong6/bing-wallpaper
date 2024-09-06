@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-09-06.jpg', name: '古老山毛榉树，格莱纳里夫森林公园，安特里姆郡，北爱尔兰 (© Dawid K Photography/Shutterstock)' },
         { src: './images/2024-09-05.jpg', name: '多伦多城市天际线,加拿大 (© Roberto Machado Noa/Getty Images)' },
         { src: './images/2024-09-04.jpg', name: '乌雕鸮，巴基斯坦 (© zahoor salmi/Getty Images)' },
         { src: './images/2024-09-03.jpg', name: '迷人的水晶湖，高山湖泊，华盛顿州，美国 (© Mitch Pittman/Tandem Stills + Motion)' },
