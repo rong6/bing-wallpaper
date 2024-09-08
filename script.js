@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-09-08.jpg', name: '加泰罗尼亚北部的圣马丁杜卡尼古修道院 ，法国 (© Cyril Gosselin/Getty Images)' },
         { src: './images/2024-09-07.jpg', name: '朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© yhelfman/Getty Images)' },
         { src: './images/2024-09-06.jpg', name: '古老山毛榉树，格莱纳里夫森林公园，安特里姆郡，北爱尔兰 (© Dawid K Photography/Shutterstock)' },
         { src: './images/2024-09-05.jpg', name: '多伦多城市天际线,加拿大 (© Roberto Machado Noa/Getty Images)' },
