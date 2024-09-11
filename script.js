@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-09-11.jpg', name: '埃尔茨城堡，德国 (© Allard Schager/Alamy)' },
         { src: './images/2024-09-10.jpg', name: '瓦斯科·达·伽马大桥，里斯本，葡萄牙 (© Achim Thomae/Getty Images)' },
         { src: './images/2024-09-09.jpg', name: '阿根廷和巴西边境的伊瓜苏瀑布 (© AirPano LLC/Amazing Aerial Agency)' },
         { src: './images/2024-09-08.jpg', name: '加泰罗尼亚北部的圣马丁杜卡尼古修道院 ，法国 (© Cyril Gosselin/Getty Images)' },
