@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-09-13.jpg', name: '雷耶斯角国家海岸灯塔，加利福尼亚州，美国 (© RMB Images/Photography by Robert Bowman/Getty Images)' },
         { src: './images/2024-09-12.jpg', name: '留尼汪岛附近的海豚群，印度洋，法国海外省 (© Joost van Uffelen/Shutterstock)' },
         { src: './images/2024-09-11.jpg', name: '埃尔茨城堡，德国 (© Allard Schager/Alamy)' },
         { src: './images/2024-09-10.jpg', name: '瓦斯科·达·伽马大桥，里斯本，葡萄牙 (© Achim Thomae/Getty Images)' },
