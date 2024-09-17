@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-09-17.jpg', name: '月圆之夜的豫园，上海，中国 (© zyxeos30/Gettyimages)' },
         { src: './images/2024-09-16.jpg', name: '日出时的小袋鼠，阿德莱德河，北领地，澳大利亚 (© Jeremy Woodhouse/Getty Images)' },
         { src: './images/2024-09-15.jpg', name: '阿科马尼奥海滩，卡拉布里亚，意大利 (© Alessio de Cicco/Getty Images)' },
         { src: './images/2024-09-14.jpg', name: '阿胡汤加里基的日出，拉帕·努伊国家公园，复活节岛，智利 (© Piriya Photography/Getty Images)' },
