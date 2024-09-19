@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const images = [
+        { src: './images/2024-09-19.jpg', name: '埃尔博河上空的银河，阿尔伯塔省，加拿大 (© Alan Dyer/Getty Images)' },
         { src: './images/2024-09-18.jpg', name: '郡上八幡城，岐阜县，日本 (© ta2funk ito/500px/Getty Images)' },
         { src: './images/2024-09-17.jpg', name: '月圆之夜的豫园，上海，中国 (© zyxeos30/Gettyimages)' },
         { src: './images/2024-09-16.jpg', name: '日出时的小袋鼠，阿德莱德河，北领地，澳大利亚 (© Jeremy Woodhouse/Getty Images)' },
