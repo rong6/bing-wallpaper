@@ -12,6 +12,35 @@ body {
     font-size: 10px;
 }
 
+.loader {
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+    color: #106898;
+}
+
+.gallery-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f0f0;
+    user-select: none;
+}
+
+.header {
+    background-color: #106898;
+    color: white;
+    padding: 1px 15px;
+    font-size: 10px;
+}
+
 .gallery-container {
     display: flex;
     justify-content: center;
@@ -22,16 +51,19 @@ body {
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+    padding: 16px;
+    width: 100%;
 }
 
 .gallery-item {
     position: relative;
     overflow: hidden;
-    border-radius: 3px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    aspect-ratio: 3/2;
 }
 
 .gallery-item:hover {
@@ -41,12 +73,11 @@ body {
 
 .gallery-item img {
     width: 100%;
-    height: 200px;
+    height: 100%;
     object-fit: cover;
     display: block;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
-    border-radius: 3px;
 }
 
 .gallery-item:hover img {
@@ -64,19 +95,10 @@ body {
     box-sizing: border-box;
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
-    border-radius: 0 0 3px 3px;
+    border-radius: 0 0 8px 8px;
 }
 
 .gallery-item:hover .image-name {
-    opacity: 1;
-}
-
-.fade-in {
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
-}
-
-.fade-in.visible {
     opacity: 1;
 }
 
@@ -146,6 +168,13 @@ body {
     background-color: #106594;
 }
 
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-top: 1px solid #e7e7e7;
+}
+
 footer a {
     color: #106594;
     text-decoration: none;
@@ -186,16 +215,133 @@ footer a {
     background-color: #7a7a7ae6
 }
 
-@media (max-width: 600px) {
+@media (min-width: 480px) {
+    .gallery {
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    }
+}
+
+@media (min-width: 768px) {
     .gallery {
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
-    
-    .lightbox-content {
-        width: 95%;
+}
+
+@media (min-width: 1024px) {
+    .gallery {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     }
-    
-    .caption, .download {
-        width: 95%;
+}
+
+@media (min-width: 1280px) {
+    .gallery {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     }
+}
+
+.fade-in {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.fade-in.visible {
+    opacity: 1;
+}
+
+.lightbox {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    padding-top: 60px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.lightbox-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    border-radius: 3px;
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+}
+
+.download {
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    margin: 10px auto;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+    background-color: #106898;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.download:hover {
+    background-color: #106594;
+}
+
+footer a {
+    color: #106594;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 2px;
+    background-color: #ffffff1a
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 2px;
+    background-color: #7a7a7a4d
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+    background-color: #7a7a7a4d
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #7a7a7ab3
+}
+
+::-webkit-scrollbar-thumb:active {
+    background-color: #7a7a7ae6
 }
