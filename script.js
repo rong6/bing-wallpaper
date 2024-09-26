@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-09-26.jpg', name: '蓝斑巨嘴鸟，洛斯戈查尔斯国家公园，哥斯达黎加 (© Oscar Dominguez/Tandem Stills + Motion)' },
         { src: './images/2024-09-25.jpg', name: '巨型红杉，红杉国家公园，加利福尼亚州，美国 (© Galyna Andrushko/Shutterstock)' },
         { src: './images/2024-09-24.jpg', name: '斯卡夫塔山的瀑布，瓦特纳冰川国家公园，冰岛 (© Nopasorn Kowathanakul/Getty Images)' },
         { src: './images/2024-09-23.jpg', name: '海獭，威廉王子湾,阿拉斯加州,美国 (© Gerald Corsi/Getty Images)' },
