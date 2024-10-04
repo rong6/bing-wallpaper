@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-10-04.jpg', name: '木星的冰卫星木卫二 (© NASA/JPL-Caltech/SETI Institute)' },
         { src: './images/2024-10-03.jpg', name: '阿格拉的泰姬陵，安拉阿巴德，印度 (© Tanarch/Getty Images)' },
         { src: './images/2024-10-02.jpg', name: '温德河，布鲁克斯山脉，北极国家野生动物保护区，阿拉斯加州，美国 (© Design Pics/DanitaDelimont)' },
         { src: './images/2024-10-01.jpg', name: '禾木村的风景，新疆，中国 (© snvv18870020330/Shutterstock)' },
