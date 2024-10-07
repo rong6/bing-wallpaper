@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-10-07.jpg', name: '法属波利尼西亚波拉波拉岛的鸟瞰图 (© GLF Media/Shutterstock)' },
         { src: './images/2024-10-06.jpg', name: '郊狼峡谷拱门中的白杨树，格兰峡谷休闲区，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)' },
         { src: './images/2024-10-05.jpg', name: '东察沃国家公园的非洲象，肯尼亚 (© Neil Bowman/Minden Pictures)' },
         { src: './images/2024-10-04.jpg', name: '木星的冰卫星木卫二 (© NASA/JPL-Caltech/SETI Institute)' },
