@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-10-10.jpg', name: '索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)' },
         { src: './images/2024-10-09.jpg', name: '马布尔附近的白杨树，科罗拉多州，美国 (© Jason Hatfield/TANDEM Stills + Motion)' },
         { src: './images/2024-10-08.jpg', name: '索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)' },
         { src: './images/2024-10-07.jpg', name: '法属波利尼西亚波拉波拉岛的鸟瞰图 (© GLF Media/Shutterstock)' },
