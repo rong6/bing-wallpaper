@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-10-17.jpg', name: '地肤草，茨城县，日本 (© DigiPub/Getty Images)' },
         { src: './images/2024-10-16.jpg', name: '侏罗纪海岸的箭石和菊石化石，多塞特郡，英国 (© Nature Picture Library/Alamy Stock Photo)' },
         { src: './images/2024-10-15.jpg', name: '马拉河的角马大迁徙，肯尼亚 (© Ayzenstayn/Getty Images)' },
         { src: './images/2024-10-14.jpg', name: '可可海滩上的渔船，果阿邦，印度 (© Abhinav Sah/Shutterstock)' },
