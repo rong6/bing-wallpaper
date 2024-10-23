@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-10-23.jpg', name: '雪莉夫人森林和古堡遗迹，新罕布什尔州，美国 (© yggdrasill/Shutterstock)' },
         { src: './images/2024-10-22.jpg', name: '祖卡里宫，罗马，意大利 (© Photon-Photos/Getty Images)' },
         { src: './images/2024-10-21.jpg', name: '乔治·史密斯州立公园的柏树，佐治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)' },
         { src: './images/2024-10-20.jpg', name: '哥斯达黎加的三趾树懒 (© Harry Collins/Getty Images)' },
