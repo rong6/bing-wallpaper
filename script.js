@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-11-01.jpg', name: '秋季葡萄园的鸟瞰图，瓦恩哈尔特，黑森林，德国 (© Sabine Gerold/Amazing Aerial Agency)' },
         { src: './images/2024-10-31.jpg', name: '巴黎圣母院的奇美拉，法国 (© scaliger/Getty Images)' },
         { src: './images/2024-10-30.jpg', name: '从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)' },
         { src: './images/2024-10-29.jpg', name: '大雕鸮 (© Mark Newman/Getty Images)' },
