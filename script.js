@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-11-05.jpg', name: '马拉赫塞斯国家公园，马拉尼昂州,巴西 (© thanosquest/Shutterstock)' },
         { src: './images/2024-11-04.jpg', name: '坎布里亚湖区，格拉斯米尔，英格兰 (© Thomas Molyneux/Getty Images)' },
         { src: './images/2024-11-03.jpg', name: '巢中的加勒比火烈鸟蛋，里奥拉加托斯自然保护区，尤卡坦州，墨西哥 (© Claudio Contreras/Minden Pictures)' },
         { src: './images/2024-11-02.jpg', name: '黄石国家公园的美洲野牛，怀俄明州，美国 (© Ian Shive/TANDEM Stills + Motion)' },
