@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-11-11.jpg', name: '班夫国家公园的日落，阿尔伯塔省，加拿大 (© fywPhoto 云卷云舒/Getty Images)' },
         { src: './images/2024-11-10.jpg', name: '加勒比火烈鸟，尤卡坦半岛，墨西哥 (© Claudio Contreras/NPL/Minden Pictures)' },
         { src: './images/2024-11-09.jpg', name: '银河，阿伊特本哈杜杜，摩洛哥 (© Cavan Images/Getty Images)' },
         { src: './images/2024-11-08.jpg', name: '冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock)' },
