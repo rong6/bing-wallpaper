@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-11-13.jpg', name: '巨型海藻森林中的加州海狮，下加利福尼亚，墨西哥 (© Claudio Contreras/Minden Pictures)' },
         { src: './images/2024-11-12.jpg', name: '透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国 (© Jeff Foott/Minden Pictures)' },
         { src: './images/2024-11-11.jpg', name: '班夫国家公园的日落，阿尔伯塔省，加拿大 (© fywPhoto 云卷云舒/Getty Images)' },
         { src: './images/2024-11-10.jpg', name: '加勒比火烈鸟，尤卡坦半岛，墨西哥 (© Claudio Contreras/NPL/Minden Pictures)' },
