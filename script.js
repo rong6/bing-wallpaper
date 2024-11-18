@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-11-18.jpg', name: '波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)' },
         { src: './images/2024-11-17.jpg', name: '加里东林中的马鹿，阿夫力谷，苏格兰高地 (© Terry Whittaker/Alamy)' },
         { src: './images/2024-11-16.jpg', name: '瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰 (© Ron ter Burg/Minden Pictures)' },
         { src: './images/2024-11-15.jpg', name: '义蓬灯节 ，清迈，泰国 (© tampatra/Getty Images)' },
