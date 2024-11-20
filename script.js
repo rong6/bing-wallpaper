@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-11-20.jpg', name: '皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)' },
         { src: './images/2024-11-19.jpg', name: '塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)' },
         { src: './images/2024-11-18.jpg', name: '波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)' },
         { src: './images/2024-11-17.jpg', name: '加里东林中的马鹿，阿夫力谷，苏格兰高地 (© Terry Whittaker/Alamy)' },
