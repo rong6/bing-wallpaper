@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-11-23.jpg', name: '多叶芦荟，袋鼠岛，澳大利亚 (© Michael Melford/Alamy)' },
         { src: './images/2024-11-22.jpg', name: '萨夫拉城堡，瓜达拉哈拉省，西班牙 (© Eduard Gene/Getty Images)' },
         { src: './images/2024-11-21.jpg', name: '日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images)' },
         { src: './images/2024-11-20.jpg', name: '皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)' },
