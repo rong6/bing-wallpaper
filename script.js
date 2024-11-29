@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-11-29.jpg', name: '圣米歇尔山，诺曼底，法国 (© Captain Skyhigh/Getty Images)' },
         { src: './images/2024-11-28.jpg', name: '日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大 (© Jeff Lewis/TANDEM Stills + Motion)' },
         { src: './images/2024-11-27.jpg', name: '秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)' },
         { src: './images/2024-11-26.jpg', name: '橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)' },
