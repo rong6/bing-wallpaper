@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-12-01.jpg', name: '南极洲的冰山 (© Art Wolfe/DanitaDelimont.com)' },
         { src: './images/2024-11-30.jpg', name: '基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰 (© Tom Mackie/plainpicture)' },
         { src: './images/2024-11-29.jpg', name: '圣米歇尔山，诺曼底，法国 (© Captain Skyhigh/Getty Images)' },
         { src: './images/2024-11-28.jpg', name: '日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大 (© Jeff Lewis/TANDEM Stills + Motion)' },
