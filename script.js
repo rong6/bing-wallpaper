@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-12-04.jpg', name: '雄性白犀，纳库鲁湖，肯尼亚 (© Ingo Arndt/Minden Pictures)' },
         { src: './images/2024-12-03.jpg', name: 'Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度 (© Yury Taranik/Shutterstock)' },
         { src: './images/2024-12-02.jpg', name: '雌性驼鹿，德纳里国家公园，阿拉斯加州，美国 (© Cavan Images/Alamy Stock Photo)' },
         { src: './images/2024-12-01.jpg', name: '南极洲的冰山 (© Art Wolfe/DanitaDelimont.com)' },
