@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-12-06.jpg', name: '鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国 (© zhengshun tang/Getty Images)' },
         { src: './images/2024-12-05.jpg', name: '莫诺湖的石灰华地层，加利福尼亚州，美国 (© Susanna Patras/TANDEM Stills + Motion)' },
         { src: './images/2024-12-04.jpg', name: '雄性白犀，纳库鲁湖，肯尼亚 (© Ingo Arndt/Minden Pictures)' },
         { src: './images/2024-12-03.jpg', name: 'Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度 (© Yury Taranik/Shutterstock)' },
