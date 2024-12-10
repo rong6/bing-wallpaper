@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-12-10.jpg', name: '被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰 (© Josef FitzGerald-Patrick/Getty Images)' },
         { src: './images/2024-12-09.jpg', name: '两只原驼,托雷斯德尔帕恩国家公园 , 智利 (© Floris van Breugel/NPL/Minden Pictures)' },
         { src: './images/2024-12-08.jpg', name: '巴黎圣母院，巴黎，法国 (© Julien Fromentin/Getty Images)' },
         { src: './images/2024-12-07.jpg', name: '里约热内卢州的阿拉亚尔多卡博，巴西 (© Derson Santana/Shutterstock)' },
