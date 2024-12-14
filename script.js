@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-12-14.jpg', name: '猛鸮，加拿大 (© pchoui/Getty Images)' },
         { src: './images/2024-12-13.jpg', name: '圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利 (© Calin Stan/Shutterstock)' },
         { src: './images/2024-12-12.jpg', name: '一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)' },
         { src: './images/2024-12-11.jpg', name: '拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)' },
