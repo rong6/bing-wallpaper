@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-12-17.jpg', name: '传统红色渔民小屋，雷讷峡湾岸边，挪威 (© Pilat666/Getty Images)' },
         { src: './images/2024-12-16.jpg', name: '萨尔茨堡，奥地利 (© bluejayphoto/Getty Images)' },
         { src: './images/2024-12-15.jpg', name: '米苏里纳湖，多洛米蒂山脉，意大利 (© Marco Bottigelli/Getty Images)' },
         { src: './images/2024-12-14.jpg', name: '猛鸮，加拿大 (© pchoui/Getty Images)' },
