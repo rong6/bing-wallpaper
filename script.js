@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-12-23.jpg', name: '钏路的两只丹顶鹤，北海道，日本 (© Wirestock, Inc./Alamy Stock Photo)' },
         { src: './images/2024-12-22.jpg', name: '水晶码头的圣诞树，太平洋海滩，加利福尼亚州，美国 (© SamAntonioPhotography/Getty Images)' },
         { src: './images/2024-12-21.jpg', name: '满拉水库的雪景，日喀则，中国西藏自治区 (© Zhang Zhenqi/VCG via Getty Images)' },
         { src: './images/2024-12-20.jpg', name: '罗瓦涅米圣诞老人村，拉普兰，芬兰 (© Smelov/Shutterstock)' },
