@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2024-12-28.jpg', name: '一只绿海龟在太平洋中游泳，法国海外属地新喀里多尼亚 (© Damsea/Shutterstock)' },
         { src: './images/2024-12-27.jpg', name: '布莱德湖，斯洛文尼亚 (© Kesu01/Getty Images)' },
         { src: './images/2024-12-26.jpg', name: '莫斯霍尔港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)' },
         { src: './images/2024-12-25.jpg', name: '科瓦东加湖，阿斯图里亚斯，西班牙 (© Carlos Fernandez/Getty Images)' },
