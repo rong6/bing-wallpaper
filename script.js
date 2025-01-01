@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-01-01.jpg', name: '在北极玩耍的北极熊 (© Ondrej Prosicky/Shutterstock)' },
         { src: './images/2024-12-31.jpg', name: '国会山上空的烟花，渥太华，加拿大 (© naibank/Getty Images)' },
         { src: './images/2024-12-30.jpg', name: '多布森湖附近的塔斯马尼亚雪胶和班达尼植物，费尔德山国家公园，塔斯马尼亚，澳大利亚 (© Whitworth Images/Getty Images)' },
         { src: './images/2024-12-29.jpg', name: '婆罗浮屠大佛寺，爪哇岛，印度尼西亚 (© Robertharding/Shutterstock)' },
