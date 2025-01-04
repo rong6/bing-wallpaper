@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-01-04.jpg', name: '归春河上的板约-德天瀑布，中国与越南边境 (© Shane P. White/Minden Pictures)' },
         { src: './images/2025-01-03.jpg', name: '英国拉德克里夫图书馆和万灵学院，牛津大学，英格兰 (© atiger/Shutterstock)' },
         { src: './images/2025-01-02.jpg', name: '阿尔德兹村上空的星轨，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)' },
         { src: './images/2025-01-01.jpg', name: '在北极玩耍的北极熊 (© Ondrej Prosicky/Shutterstock)' },
