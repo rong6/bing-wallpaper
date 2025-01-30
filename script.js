@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-01-30.jpg', name: '罗兰多山口，奥德萨和佩迪多山国家公园，西班牙 (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)' },
         { src: './images/2025-01-29.jpg', name: '南京夫子庙的春节许愿牌，江苏省，中国 (© lazy dragon/Shutterstock)' },
         { src: './images/2025-01-28.jpg', name: '夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)' },
         { src: './images/2025-01-27.jpg', name: '琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国 (© Nick Lake/Tandem Stills + Motion)' },
