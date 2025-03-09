@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-03-09.jpg', name: '圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)' },
         { src: './images/2025-03-08.jpg', name: '石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国 (© 3quarks/Getty Images)' },
         { src: './images/2025-03-07.jpg', name: '中国的梅花 (© zhikun sun/Getty Images)' },
         { src: './images/2025-03-06.jpg', name: '沙漠大角羊，内华达州火焰谷州立公园，美国 (© Rachid Dahnoun/Cavan Images)' },
@@ -21,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { src: './images/2025-02-20.jpg', name: '马鹿，加拿大 (© Delbars/Getty Images)' },
         { src: './images/2025-02-19.jpg', name: '欧亚水獭，莱利斯塔德，荷兰 (© Ernst Dirksen/Minden Pictures)' },
         { src: './images/2025-02-18.jpg', name: '大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock)' },
-        { src: './images/2025-02-17.jpg', name: 'Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)' },
+        { src: './images/2025-02-17.jpg', name: 'Coll d\'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)' },
         { src: './images/2025-02-16.jpg', name: '座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures)' },
         { src: './images/2025-02-15.jpg', name: '三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock)' },
         { src: './images/2025-02-14.jpg', name: '两只麦哲伦企鹅，福克兰群岛 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)' },
