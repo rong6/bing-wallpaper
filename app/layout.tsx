@@ -40,12 +40,10 @@ export default function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         {/* 使用Script标签设置window对象，用onReady确保客户端执行 */}
         <Script id="debug-script" strategy="afterInteractive" src="/debug.js" />
-        <Script id="init-images" strategy="beforeInteractive">
+        <Script id="init-images" strategy="afterInteractive">
           {`
-            if (typeof window !== 'undefined') {
-              window.images = window.images || [];
-              window.siteConfig = ${JSON.stringify(siteConfig)};
-            }
+            window.images = window.images || [];
+            window.siteConfig = ${JSON.stringify(siteConfig)};
           `}
         </Script>
       </head>
