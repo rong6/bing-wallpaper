@@ -1,5 +1,6 @@
 (function() {
     window.images = [
+        { src: '/images/2025-03-09.jpg', name: '圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)' },
         { src: '/images/2025-03-08.jpg', name: '石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国 (© 3quarks/Getty Images)' },
         { src: '/images/2025-03-07.jpg', name: '中国的梅花 (© zhikun sun/Getty Images)' },
         { src: '/images/2025-03-06.jpg', name: '沙漠大角羊，内华达州火焰谷州立公园，美国 (© Rachid Dahnoun/Cavan Images)' },
