@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bing每日壁纸</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Bing每日壁纸</h1>
+    </div>
+    <div class="loader" id="loader">Loading...</div>
+    <div class="gallery-container">
+        <div class="gallery" id="gallery"></div>
+    </div>
+
+    <div id="lightbox" class="lightbox">
+        <span class="close">&times;</span>
+        <img class="lightbox-content" id="lightbox-img">
+        <div class="caption" id="caption"></div>
+        <a id="download-link" class="download" href="#" download>Download</a>
+    </div>
+
+    <script src="script.js"></script>
+    <footer id="footer" style="display: none;">
+        <p align="center">Copyright &copy; <a href="https://rong6.cn">Rong6</a> All rights reserved.</p>
+    </footer>
+</body>
+</html>

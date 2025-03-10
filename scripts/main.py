@@ -16,10 +16,10 @@ copyright_info = data['images'][0]['copyright']
 # 下载图片
 image_response = requests.get(link)
 today = datetime.datetime.now().strftime('%Y-%m-%d')
-image_path = f'/images/{today}.jpg'
+image_path = f'./images/{today}.jpg'
 
 # 确保目录存在
-os.makedirs('./public/images', exist_ok=True)
+os.makedirs('./images', exist_ok=True)
 
 # 将图片保存到指定路径
 with open(image_path, 'wb') as file:
@@ -28,15 +28,15 @@ with open(image_path, 'wb') as file:
 print(f"Image saved to {image_path}")
 
 # 更新script.js文件
-script_path = './public/script.js'
+script_path = './script.js'
 
 # 读取现有的script.js文件内容
 with open(script_path, 'r', encoding='utf-8') as file:
     lines = file.readlines()
 
-# 找到window.images = [这一行，并在后面添加新的图片信息
+# 找到const images = [这一行，并在后面添加新的图片信息
 for i, line in enumerate(lines):
-    if 'window.images = [' in line:
+    if 'const images = [' in line:
         insert_index = i + 1
         new_entry = f"        {{ src: '{image_path}', name: '{copyright_info}' }},\n"
         lines.insert(insert_index, new_entry)
