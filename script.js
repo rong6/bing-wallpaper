@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-03-18.jpg', name: '红色岩层，塞多纳，亚利桑那州，美国 (© Jim Ekstrand/Alamy Stock Photo)' },
         { src: './images/2025-03-17.jpg', name: '塞缪尔·贝克特桥, 都柏林, 爱尔兰 (© Colm Keating/Tandem Stills + Motion)' },
         { src: './images/2025-03-16.jpg', name: '雪地里的大熊猫宝宝，中国 (© Cheryl Schneider/Alamy Stock Photo)' },
         { src: './images/2025-03-15.jpg', name: '罗马广场上的罗马萨图尔诺农神庙，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)' },
