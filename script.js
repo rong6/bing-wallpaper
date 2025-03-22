@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-03-22.jpg', name: '尼特哈天然井水面上的睡莲，图卢姆，墨西哥 (© Franco Banfi/NPL/Minden)' },
         { src: './images/2025-03-21.jpg', name: '低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚 (© Nick Garbutt/Alamy)' },
         { src: './images/2025-03-20.jpg', name: '美丽盛开的樱花，杭州的春天，中国 (© zhang shuang/Getty Images)' },
         { src: './images/2025-03-19.jpg', name: '黑鹭捕鱼，乔贝国家公园，博茨瓦纳 (© Paul Souders/Minden PIctures)' },
