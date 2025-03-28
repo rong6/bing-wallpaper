@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-03-28.jpg', name: '正在筑巢的雌性黑枕王鹟 (© komkrit tonusin/Alamy)' },
         { src: './images/2025-03-27.jpg', name: '希罗德·阿提库斯剧场，雅典卫城，希腊 (© f11photo/Getty Images)' },
         { src: './images/2025-03-26.jpg', name: '水晶河的海牛，佛罗里达州，美国 (© Stephen Frink/Getty Images)' },
         { src: './images/2025-03-25.jpg', name: '向日葵田里的红额金翅雀，德国 (© Juniors Bildarchiv GmbH/Alamy)' },
