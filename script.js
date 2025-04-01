@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-04-01.jpg', name: '树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)' },
         { src: './images/2025-03-31.jpg', name: '黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)' },
         { src: './images/2025-03-30.jpg', name: '悉尼港鸟瞰图，新南威尔士州，澳大利亚 (© jamenpercy/Getty Images)' },
         { src: './images/2025-03-29.jpg', name: '卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国 (© Robb Hirsch/TANDEM Stills + Motion)' },
