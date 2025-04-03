@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-04-03.jpg', name: '沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国 (© Frank Staub/Getty Images)' },
         { src: './images/2025-04-02.jpg', name: '凯恩维尔附近荒地的砂岩地层, 犹他州, 美国 (© Chris Moore/TANDEM Stills + Motion)' },
         { src: './images/2025-04-01.jpg', name: '树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)' },
         { src: './images/2025-03-31.jpg', name: '黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)' },
