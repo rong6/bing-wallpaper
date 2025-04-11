@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-04-11.jpg', name: '郁金香，荷兰 (© 1111IESPDJ/Getty Images)' },
         { src: './images/2025-04-10.jpg', name: '靠近巢穴的红狐幼崽 (© WildMedia/Shutterstock)' },
         { src: './images/2025-04-09.jpg', name: '纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)' },
         { src: './images/2025-04-08.jpg', name: '春天的水仙花在清晨绽放 (© LedyX/Shutterstock)' },
