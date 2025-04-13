@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-04-13.jpg', name: '班克鲁特的唐赛寺，泰国 (© Ratnakorn Piyasirisorost/Getty Images)' },
         { src: './images/2025-04-12.jpg', name: '从国际空间站穹顶俯瞰南太平洋 (© NASA)' },
         { src: './images/2025-04-11.jpg', name: '郁金香，荷兰 (© 1111IESPDJ/Getty Images)' },
         { src: './images/2025-04-10.jpg', name: '靠近巢穴的红狐幼崽 (© WildMedia/Shutterstock)' },
