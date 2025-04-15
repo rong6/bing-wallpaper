@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-04-15.jpg', name: '卡拉奥拉城堡，格拉纳达，西班牙 (© Ugo Mellone/eStock Photo)' },
         { src: './images/2025-04-14.jpg', name: '圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙 (© Jordi Chias/Minden Pictures)' },
         { src: './images/2025-04-13.jpg', name: '班克鲁特的唐赛寺，泰国 (© Ratnakorn Piyasirisorost/Getty Images)' },
         { src: './images/2025-04-12.jpg', name: '从国际空间站穹顶俯瞰南太平洋 (© NASA)' },
