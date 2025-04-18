@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-04-18.jpg', name: '卡帕多西亚格雷梅国家公园上空的热气球，土耳其 (© Anton Petrus/Getty Images)' },
         { src: './images/2025-04-17.jpg', name: '安第斯动冠伞鸟，厄瓜多尔 (© Kit Day/Alamy Stock Photo)' },
         { src: './images/2025-04-16.jpg', name: '卡奇纳桥，天然桥国家区，犹他州，美国 (© Alan Majchrowicz/Getty Images)' },
         { src: './images/2025-04-15.jpg', name: '卡拉奥拉城堡，格拉纳达，西班牙 (© Ugo Mellone/eStock Photo)' },
