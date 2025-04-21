@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-04-21.jpg', name: '银河下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)' },
         { src: './images/2025-04-20.jpg', name: '春天里的野生小兔子 (© Fiona McAllister Photography/Getty Images)' },
         { src: './images/2025-04-19.jpg', name: '锡安国家公园，犹他州，美国 (© Simon Dannhauer/Getty Images)' },
         { src: './images/2025-04-18.jpg', name: '卡帕多西亚格雷梅国家公园上空的热气球，土耳其 (© Anton Petrus/Getty Images)' },
