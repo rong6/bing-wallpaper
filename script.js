@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-04-24.jpg', name: '阿拉斯加基奈峡湾国家公园尖顶湾, 阿拉斯加州苏厄德, 美国 (© Wander Photography/Getty Images)' },
         { src: './images/2025-04-23.jpg', name: '海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国 (© Frank Lukasseck/eStock Photo)' },
         { src: './images/2025-04-22.jpg', name: '大棱镜彩泉，黄石国家公园，怀俄明州，美国 (© Ajith Kumar/Getty Images)' },
         { src: './images/2025-04-21.jpg', name: '银河下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)' },
