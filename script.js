@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-04-28.jpg', name: '莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)' },
         { src: './images/2025-04-27.jpg', name: '红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)' },
         { src: './images/2025-04-26.jpg', name: '印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大 (© Maurice Prokaziuk/Getty Images)' },
         { src: './images/2025-04-25.jpg', name: '麦哲伦企鹅, 志愿者角, 福克兰群岛 (© imageBROKER/Matthias Graben/Getty Images)' },
