@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-05-01.jpg', name: '鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)' },
         { src: './images/2025-04-30.jpg', name: '从巴拉那州看到的伊瓜苏瀑布, 巴西 (© agustavop/Getty Images)' },
         { src: './images/2025-04-29.jpg', name: '维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)' },
         { src: './images/2025-04-28.jpg', name: '莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)' },
