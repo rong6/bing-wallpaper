@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-05-03.jpg', name: '拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)' },
         { src: './images/2025-05-02.jpg', name: '维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西 (© Gerald Corsi/Getty Images)' },
         { src: './images/2025-05-01.jpg', name: '鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)' },
         { src: './images/2025-04-30.jpg', name: '从巴拉那州看到的伊瓜苏瀑布, 巴西 (© agustavop/Getty Images)' },
