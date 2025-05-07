@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-05-07.jpg', name: '邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)' },
         { src: './images/2025-05-06.jpg', name: '一架超轻型飞机飞越纳米比亚沙漠 (© Burt Johnson/Alamy Stock Photo)' },
         { src: './images/2025-05-05.jpg', name: '日出时分，美丽的喀斯特山脉鸟瞰图，中国桂林 (© zhaojiankang/Getty Images)' },
         { src: './images/2025-05-04.jpg', name: '西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)' },
