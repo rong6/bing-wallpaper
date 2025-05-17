@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-05-17.jpg', name: '威尼斯潟湖中的三角洲, 意大利 (© Dimitri Weber/Amazing Aerial Agency)' },
         { src: './images/2025-05-16.jpg', name: '大绿金刚鹦鹉, 墨西哥 (© Ondrej Prosicky/Shutterstock)' },
         { src: './images/2025-05-15.jpg', name: '大本钟和国会大厦, 威斯敏斯特宫, 伦敦, 英国 (© Puthipong Worasaran/Getty Images)' },
         { src: './images/2025-05-14.jpg', name: '弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利 (© Marco Bottigelli/Getty Images)' },
