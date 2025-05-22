@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-05-22.jpg', name: '日落时分的猴面包树，猴面包树大道，马达加斯加 (© Framalicious/Shutterstock)' },
         { src: './images/2025-05-21.jpg', name: '杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)' },
         { src: './images/2025-05-20.jpg', name: '薰衣草上的蜜蜂 (© Anthony Brown/Alamy Stock Photo)' },
         { src: './images/2025-05-19.jpg', name: '汉密尔顿山, 旧金山湾区, 加利福尼亚, 美国 (© Jeffrey Lewis/TANDEM Stills + Motion)' },
