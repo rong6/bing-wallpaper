@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-05-28.jpg', name: '一只海獭漂浮在阿拉斯加海洋国家野生动物保护区的海藻床上，美国 (© Gerry Ellis/Minden Pictures)' },
         { src: './images/2025-05-27.jpg', name: '梦娜维尔岩池，悉尼，澳大利亚 (© jamenpercy/Getty Images)' },
         { src: './images/2025-05-26.jpg', name: '沿着岚山保津川行驶的火车，京都，日本 (© Alvin Huang/Getty Images)' },
         { src: './images/2025-05-25.jpg', name: '布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大 (© 2009fotofriends/Shutterstock)' },
