@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-05-30.jpg', name: '小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images)' },
         { src: './images/2025-05-29.jpg', name: '米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙 (© Eloi_Omella/Getty Images)' },
         { src: './images/2025-05-28.jpg', name: '一只海獭漂浮在阿拉斯加海洋国家野生动物保护区的海藻床上，美国 (© Gerry Ellis/Minden Pictures)' },
         { src: './images/2025-05-27.jpg', name: '梦娜维尔岩池，悉尼，澳大利亚 (© jamenpercy/Getty Images)' },
