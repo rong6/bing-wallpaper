@@ -4,27 +4,54 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bing每日壁纸</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;500&family=Noto+Sans+SC:wght@300;400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
-    <div class="header">
-        <h1>Bing每日壁纸</h1>
-    </div>
-    <div class="loader" id="loader">Loading...</div>
-    <div class="gallery-container">
-        <div class="gallery" id="gallery"></div>
+<body class="dark-theme">
+    <div class="theme-toggle">
+        <button id="theme-btn" class="theme-btn">🌙</button>
     </div>
 
-    <div id="lightbox" class="lightbox">
-        <span class="close">&times;</span>
-        <img class="lightbox-content" id="lightbox-img">
-        <div class="caption" id="caption"></div>
-        <a id="download-link" class="download" href="#" download>Download</a>
+    <div class="container">
+        <header class="hero-section">
+            <h1 class="main-title">Bing每日壁纸</h1>
+            <p class="subtitle">每天发现世界的美</p>
+        </header>
+
+        <main class="gallery-section">
+            <div id="gallery" class="gallery-grid"></div>
+            <button id="load-more" class="load-more-btn">加载更多</button>
+        </main>
     </div>
+
+    <div id="drawer" class="drawer">
+        <div class="drawer-overlay"></div>
+        <div class="drawer-content">
+            <div class="drawer-handle"></div>
+            <button class="drawer-close">&times;</button>
+            
+            <div class="drawer-image-container">
+                <img id="drawer-image">
+            </div>
+            
+            <div class="drawer-info">
+                <h2 id="drawer-title"></h2>
+                <div class="drawer-actions">
+                    <a id="download-btn" href="" download class="download-btn">下载原图</a>
+                    <button id="share-btn" class="share-btn">分享</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p align="center">Copyright &copy; <a href="https://rong6.cn">Rong6</a> All rights reserved.</p>
+        </div>
+    </footer>
 
     <script src="script.js"></script>
-    <footer id="footer" style="display: none;">
-        <p align="center">Copyright &copy; <a href="https://rong6.cn">Rong6</a> All rights reserved.</p>
-    </footer>
 </body>
 </html>

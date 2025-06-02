@@ -1,7 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
-    const gallery = document.getElementById('gallery');
-    const loader = document.getElementById('loader');
-    const images = [
+const images = [
         { src: './images/2025-06-02.jpg', name: '一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)' },
         { src: './images/2025-06-01.jpg', name: '格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)' },
         { src: './images/2025-05-31.jpg', name: '用彩色丝线串成的香囊，端午节前夕的庙会上，吉林省吉林市，中国 (© Visual China Group/Getty Images)' },
@@ -351,103 +348,193 @@ document.addEventListener("DOMContentLoaded", function() {
         { src: './images/2024-06-21.jpg', name: '蓝色水面上的渔船航拍图，郴州市，湖南省，中国 (© Haitong Yu/Getty images)' }
     ];
 
-    const createImageElement = (image, index) => {
-        const item = document.createElement('div');
-        item.classList.add('gallery-item');
+// 配置
+const config = {
+    itemsPerLoad: 12,
+    thumbnailSize: 400,
+    currentIndex: 0
+};
 
+// DOM 元素
+const gallery = document.getElementById('gallery');
+const loadMoreBtn = document.getElementById('load-more');
+const drawer = document.getElementById('drawer');
+const drawerOverlay = document.querySelector('.drawer-overlay');
+const drawerImage = document.getElementById('drawer-image');
+const drawerTitle = document.getElementById('drawer-title');
+const downloadBtn = document.getElementById('download-btn');
+const shareBtn = document.getElementById('share-btn');
+const drawerClose = document.querySelector('.drawer-close');
+const themeBtn = document.getElementById('theme-btn');
+
+// 主题切换
+let isDarkTheme = true;
+
+function toggleTheme() {
+    isDarkTheme = !isDarkTheme;
+    document.body.setAttribute('data-theme', isDarkTheme ? 'dark' : 'light');
+    themeBtn.textContent = isDarkTheme ? '🌙' : '☀️';
+    localStorage.setItem('theme', isDarkTheme ? 'dark' : 'light');
+}
+
+// 初始化主题
+function initTheme() {
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme) {
+        isDarkTheme = savedTheme === 'dark';
+        document.body.setAttribute('data-theme', isDarkTheme ? 'dark' : 'light');
+        themeBtn.textContent = isDarkTheme ? '🌙' : '☀️';
+    }
+}
+
+// 获取缩略图 URL
+function getThumbnailUrl(originalSrc, width) {
+    const baseUrl = window.location.origin + window.location.pathname;
+    const absolutePath = new URL(originalSrc, baseUrl).href;
+    return `https://i0.wp.com/${absolutePath.replace(/^https?:\/\//, '')}?w=${width}&quality=85`;
+}
+
+// 加载图片
+function loadImages() {
+    const startIndex = config.currentIndex;
+    const endIndex = Math.min(startIndex + config.itemsPerLoad, images.length);
+    
+    for (let i = startIndex; i < endIndex; i++) {
+        const image = images[i];
+        
+        const galleryItem = document.createElement('div');
+        galleryItem.className = 'gallery-item';
+        galleryItem.dataset.index = i;
+        
         const img = document.createElement('img');
+        img.src = getThumbnailUrl(image.src, config.thumbnailSize);
         img.alt = image.name;
-        img.dataset.src = image.src;
+        img.loading = 'lazy';
+        
+        // 图片加载完成后添加动画
+        img.onload = () => {
+            setTimeout(() => {
+                galleryItem.style.opacity = '1';
+                galleryItem.style.transform = 'translateY(0)';
+            }, (i - startIndex) * 50);
+        };
+        
+        galleryItem.addEventListener('click', () => openDrawer(i));
+        
+        galleryItem.appendChild(img);
+        gallery.appendChild(galleryItem);
+    }
+    
+    config.currentIndex = endIndex;
+    
+    if (config.currentIndex >= images.length) {
+        loadMoreBtn.style.display = 'none';
+    }
+}
 
-        const name = document.createElement('div');
-        name.classList.add('image-name');
-        name.textContent = image.name;
+// 打开抽屉
+function openDrawer(index) {
+    const image = images[index];
+    
+    drawerImage.src = image.src;
+    drawerTitle.textContent = image.name;
+    downloadBtn.href = image.src;
+    downloadBtn.download = `bing-wallpaper-${index + 1}.jpg`;
+    
+    drawer.classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
 
-        item.appendChild(img);
-        item.appendChild(name);
-        gallery.appendChild(item);
+// 关闭抽屉
+function closeDrawer() {
+    drawer.classList.remove('active');
+    document.body.style.overflow = '';
+}
 
-        // 灯箱
-        img.addEventListener('click', () => {
-            openLightbox(image);
+// 分享功能
+function shareImage() {
+    const currentImage = drawerImage.src;
+    const currentTitle = drawerTitle.textContent;
+    
+    if (navigator.share) {
+        navigator.share({
+            title: 'Bing每日壁纸',
+            text: currentTitle,
+            url: currentImage
         });
-    };
+    } else {
+        // 复制链接到剪贴板
+        navigator.clipboard.writeText(currentImage).then(() => {
+            alert('图片链接已复制到剪贴板');
+        });
+    }
+}
 
-    images.forEach((image, index) => createImageElement(image, index));
+// 事件监听器
+themeBtn.addEventListener('click', toggleTheme);
+loadMoreBtn.addEventListener('click', loadImages);
+drawerClose.addEventListener('click', closeDrawer);
+drawerOverlay.addEventListener('click', closeDrawer);
+shareBtn.addEventListener('click', shareImage);
 
-    const lightbox = document.getElementById('lightbox');
-    const lightboxImg = document.getElementById('lightbox-img');
-    const caption = document.getElementById('caption');
-    const downloadLink = document.getElementById('download-link');
-    const closeBtn = document.querySelector('.close');
+// 键盘事件
+document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') {
+        closeDrawer();
+    }
+});
 
-    const openLightbox = (image) => {
-        lightbox.style.display = 'block';
-        lightboxImg.src = image.src;
-        caption.textContent = image.name;
-        downloadLink.href = image.src;
-        downloadLink.download = image.name;
-    };
+// 触摸手势支持（移动端下拉关闭抽屉）
+let startY = 0;
+let currentY = 0;
+let isDragging = false;
 
-    closeBtn.addEventListener('click', () => {
-        lightbox.style.display = 'none';
-    });
+drawer.addEventListener('touchstart', (e) => {
+    startY = e.touches[0].clientY;
+    isDragging = true;
+});
 
-    lightbox.addEventListener('click', (e) => {
-        if (e.target === lightbox) {
-            lightbox.style.display = 'none';
+drawer.addEventListener('touchmove', (e) => {
+    if (!isDragging) return;
+    
+    currentY = e.touches[0].clientY;
+    const deltaY = currentY - startY;
+    
+    if (deltaY > 0) {
+        const drawerContent = drawer.querySelector('.drawer-content');
+        drawerContent.style.transform = `scale(1) translateY(${deltaY}px)`;
+    }
+});
+
+drawer.addEventListener('touchend', () => {
+    if (!isDragging) return;
+    
+    const deltaY = currentY - startY;
+    const drawerContent = drawer.querySelector('.drawer-content');
+    
+    if (deltaY > 100) {
+        closeDrawer();
+    } else {
+        drawerContent.style.transform = 'scale(1) translateY(0)';
+    }
+    
+    isDragging = false;
+});
+
+// 初始化
+document.addEventListener('DOMContentLoaded', () => {
+    initTheme();
+    
+    // 添加初始动画样式
+    const style = document.createElement('style');
+    style.textContent = `
+        .gallery-item {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.6s ease, transform 0.6s ease, box-shadow 0.3s ease;
         }
-    });
-
-    // 使用 Canvas API 压缩图片
-    const compressImage = (url, width, height) => {
-        return new Promise((resolve) => {
-            const img = new Image();
-            img.crossOrigin = "Anonymous";
-            img.onload = function() {
-                const canvas = document.createElement('canvas');
-                const ctx = canvas.getContext('2d');
-                canvas.width = width;
-                canvas.height = height;
-                ctx.drawImage(img, 0, 0, width, height);
-                canvas.toBlob((blob) => {
-                    resolve(URL.createObjectURL(blob));
-                }, 'image/jpeg', 0.7); // 压缩质量设置为 0.7
-            };
-            img.src = url;
-        });
-    };
-
-    // 懒加载
-    const lazyLoad = () => {
-        const lazyImages = document.querySelectorAll('img[data-src]');
-        lazyImages.forEach(img => {
-            if (isInViewport(img) && !img.src) {
-                compressImage(img.dataset.src, 300, 200).then(compressedSrc => {
-                    img.src = compressedSrc;
-                });
-            }
-        });
-    };
-
-    const isInViewport = (element) => {
-        const rect = element.getBoundingClientRect();
-        return (
-            rect.top >= 0 &&
-            rect.left >= 0 &&
-            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-        );
-    };
-
-    window.addEventListener('scroll', lazyLoad);
-    window.addEventListener('resize', lazyLoad);
-    window.addEventListener('orientationchange', lazyLoad);
-
-    // 显示footer和隐藏loader
-    window.addEventListener('load', () => {
-        document.getElementById('footer').style.display = 'block';
-        loader.style.display = 'none';
-        lazyLoad(); // 初始加载
-    });
+    `;
+    document.head.appendChild(style);
+    
+    loadImages();
 });
