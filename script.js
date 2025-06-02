@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-06-02.jpg', name: '一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)' },
         { src: './images/2025-06-01.jpg', name: '格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)' },
         { src: './images/2025-05-31.jpg', name: '用彩色丝线串成的香囊，端午节前夕的庙会上，吉林省吉林市，中国 (© Visual China Group/Getty Images)' },
         { src: './images/2025-05-30.jpg', name: '小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images)' },
