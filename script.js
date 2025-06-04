@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-06-04.jpg', name: '卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)' },
         { src: './images/2025-06-03.jpg', name: '乌得勒支桥上的自行车，荷兰 (© George Pachantouris/Getty Images)' },
         { src: './images/2025-06-02.jpg', name: '一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)' },
         { src: './images/2025-06-01.jpg', name: '格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)' },
