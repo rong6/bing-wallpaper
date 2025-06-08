@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-06-08.jpg', name: '北海狮, 温哥华岛, 不列颠哥伦比亚省, 加拿大 (© Steve Woods Photography/Getty Images)' },
         { src: './images/2025-06-07.jpg', name: '松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国 (© Matthew Kuhns/TANDEM Stills + Motion)' },
         { src: './images/2025-06-06.jpg', name: '诺曼底的阿罗芒什莱班 , 法国 (© Horia Merla/Getty Images)' },
         { src: './images/2025-06-05.jpg', name: '福玛萨瀑布，迪亚曼蒂纳，巴西 (© Pulsar Images/Alamy)' },
