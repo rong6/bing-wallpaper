@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-06-12.jpg', name: '奇索斯山脉，大弯国家公园，德克萨斯州，美国 (© Dean Fikar/Getty Images)' },
         { src: './images/2025-06-11.jpg', name: '大红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion)' },
         { src: './images/2025-06-10.jpg', name: '大沼泽地国家公园的鸟瞰图，佛罗里达州，美国 (© Robert DelVecchio - OcuDrone/Getty Images)' },
         { src: './images/2025-06-09.jpg', name: '达尔马提亚的杜布罗夫尼克古城，克罗地亚 (© bluejayphoto/Getty Images)' },
