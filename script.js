@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-06-15.jpg', name: '雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国家公园，巴塔哥尼亚，智利 (© Ignacio Yufera/Minden Pictures)' },
         { src: './images/2025-06-14.jpg', name: '五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区 (© usabin/Getty Images)' },
         { src: './images/2025-06-13.jpg', name: '维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙 (© ARoxo/Getty Images)' },
         { src: './images/2025-06-12.jpg', name: '奇索斯山脉，大弯国家公园，德克萨斯州，美国 (© Dean Fikar/Getty Images)' },
