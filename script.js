@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-06-17.jpg', name: '坎伯兰岛国家海岸的海滨森林，乔治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)' },
         { src: './images/2025-06-16.jpg', name: '海龟，费尔南多·迪诺罗尼亚群岛，巴西 (© João Vianna/Getty Images)' },
         { src: './images/2025-06-15.jpg', name: '雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国家公园，巴塔哥尼亚，智利 (© Ignacio Yufera/Minden Pictures)' },
         { src: './images/2025-06-14.jpg', name: '五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区 (© usabin/Getty Images)' },
