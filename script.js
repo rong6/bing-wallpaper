@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-06-18.jpg', name: '红花石蒜上的柑橘凤蝶 (© lzh/Getty Images)' },
         { src: './images/2025-06-17.jpg', name: '坎伯兰岛国家海岸的海滨森林，乔治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)' },
         { src: './images/2025-06-16.jpg', name: '海龟，费尔南多·迪诺罗尼亚群岛，巴西 (© João Vianna/Getty Images)' },
         { src: './images/2025-06-15.jpg', name: '雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国家公园，巴塔哥尼亚，智利 (© Ignacio Yufera/Minden Pictures)' },
