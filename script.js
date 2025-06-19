@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-06-19.jpg', name: '圣卡塔琳娜州的海滩, 巴西 (© CaioCarvalhoPhotography/Getty Images)' },
         { src: './images/2025-06-18.jpg', name: '红花石蒜上的柑橘凤蝶 (© lzh/Getty Images)' },
         { src: './images/2025-06-17.jpg', name: '坎伯兰岛国家海岸的海滨森林，乔治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)' },
         { src: './images/2025-06-16.jpg', name: '海龟，费尔南多·迪诺罗尼亚群岛，巴西 (© João Vianna/Getty Images)' },
