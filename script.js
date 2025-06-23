@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-06-23.jpg', name: '德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)' },
         { src: './images/2025-06-22.jpg', name: '亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)' },
         { src: './images/2025-06-21.jpg', name: '雾中莲花，中国佛山 (© huoguangliang/Getty Images)' },
         { src: './images/2025-06-20.jpg', name: '一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚 (© Alberto Cassani/Getty Images)' },
