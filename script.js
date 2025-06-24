@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-06-24.jpg', name: '精致拱门, 拱门国家公园, 犹他州, 美国 (© mmac72/Getty Images)' },
         { src: './images/2025-06-23.jpg', name: '德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)' },
         { src: './images/2025-06-22.jpg', name: '亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)' },
         { src: './images/2025-06-21.jpg', name: '雾中莲花，中国佛山 (© huoguangliang/Getty Images)' },
