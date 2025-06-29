@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-06-29.jpg', name: 'Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)' },
         { src: './images/2025-06-28.jpg', name: '曼海姆水塔, 德国 (© no limit pictures/Getty Images)' },
         { src: './images/2025-06-27.jpg', name: 'Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典 (© Sven Halling/DEEPOL/plainpicture)' },
         { src: './images/2025-06-26.jpg', name: '马头岩上空的银河, 新南威尔士州, 澳大利亚 (© Philip Thurston/Getty Images)' },
