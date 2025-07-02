@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-07-02.jpg', name: '被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚 (© Fred Bavendam/Nature Picture Library)' },
         { src: './images/2025-07-01.jpg', name: 'Tilting渔村, 福戈岛 , 纽芬兰和拉布拉多省, 加拿大 (© FedevPhoto/Getty Images)' },
         { src: './images/2025-06-30.jpg', name: '沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)' },
         { src: './images/2025-06-29.jpg', name: 'Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)' },
