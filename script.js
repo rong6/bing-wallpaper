@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-07-06.jpg', name: '死亡谷国家公园的梅斯基特平原沙丘，加利福尼亚州，美国 (© Bryan Jolley/TANDEM Stills + Motion)' },
         { src: './images/2025-07-05.jpg', name: 'Cize-Bolozon viaduct crossing the Ain gorge, France (© Leonid Andronov/Getty Images)' },
         { src: './images/2025-07-04.jpg', name: '奥罗塞，撒丁岛，意大利 (© EyeEm Mobile GmbH/Getty Images)' },
         { src: './images/2025-07-03.jpg', name: '彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)' },
