@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-07-11.jpg', name: '日出时的东京，日本 (© pongnathee kluaythong/Getty Images)' },
         { src: './images/2025-07-10.jpg', name: '巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)' },
         { src: './images/2025-07-09.jpg', name: '宪法火车站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)' },
         { src: './images/2025-07-08.jpg', name: '塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)' },
