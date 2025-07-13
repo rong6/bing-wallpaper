@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-07-13.jpg', name: '卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛 (© Arterra Picture Library/Alamy Stock Photo)' },
         { src: './images/2025-07-12.jpg', name: '汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)' },
         { src: './images/2025-07-11.jpg', name: '日出时的东京，日本 (© pongnathee kluaythong/Getty Images)' },
         { src: './images/2025-07-10.jpg', name: '巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)' },
