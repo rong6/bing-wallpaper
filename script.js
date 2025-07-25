@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-07-25.jpg', name: '大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙 (© Marco Bottigelli/Getty Images)' },
         { src: './images/2025-07-24.jpg', name: '栖息在树枝上的灰燕鵙家族 (© Captain Skyhigh/Getty Images)' },
         { src: './images/2025-07-23.jpg', name: '梵蒂冈城与圣彼得大教堂，罗马，意大利 (© RudyBalasko/Getty Images)' },
         { src: './images/2025-07-22.jpg', name: '夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区 (© Feng Wei Photography/Getty Images)' },
