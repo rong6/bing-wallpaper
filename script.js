@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-07-26.jpg', name: '黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)' },
         { src: './images/2025-07-25.jpg', name: '大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙 (© Marco Bottigelli/Getty Images)' },
         { src: './images/2025-07-24.jpg', name: '栖息在树枝上的灰燕鵙家族 (© Captain Skyhigh/Getty Images)' },
         { src: './images/2025-07-23.jpg', name: '梵蒂冈城与圣彼得大教堂，罗马，意大利 (© RudyBalasko/Getty Images)' },
