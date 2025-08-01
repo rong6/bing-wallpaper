@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-08-01.jpg', name: '皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)' },
         { src: './images/2025-07-31.jpg', name: '纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)' },
         { src: './images/2025-07-30.jpg', name: '里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)' },
         { src: './images/2025-07-29.jpg', name: '雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)' },
