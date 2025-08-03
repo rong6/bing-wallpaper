@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-08-03.jpg', name: '夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)' },
         { src: './images/2025-08-02.jpg', name: '圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock)' },
         { src: './images/2025-08-01.jpg', name: '皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)' },
         { src: './images/2025-07-31.jpg', name: '纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)' },
