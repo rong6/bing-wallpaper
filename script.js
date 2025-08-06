@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-08-06.jpg', name: '环尾狐猴幼崽在玩自己的尾巴‌, 马达加斯加 (© Andy Rouse/Nature Picture Library)' },
         { src: './images/2025-08-05.jpg', name: '拉霍亚的潮汐池‌, 加利福尼亚州, 美国 (© Andrew Shoemaker/DanitaDelimont.com)' },
         { src: './images/2025-08-04.jpg', name: '巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo)' },
         { src: './images/2025-08-03.jpg', name: '夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)' },
