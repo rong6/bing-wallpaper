@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-08-09.jpg', name: '陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)' },
         { src: './images/2025-08-08.jpg', name: '伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)' },
         { src: './images/2025-08-07.jpg', name: '加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)' },
         { src: './images/2025-08-06.jpg', name: '环尾狐猴幼崽在玩自己的尾巴‌, 马达加斯加 (© Andy Rouse/Nature Picture Library)' },
