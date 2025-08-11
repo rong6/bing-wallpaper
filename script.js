@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-08-11.jpg', name: '圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)' },
         { src: './images/2025-08-10.jpg', name: '马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)' },
         { src: './images/2025-08-09.jpg', name: '陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)' },
         { src: './images/2025-08-08.jpg', name: '伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)' },
