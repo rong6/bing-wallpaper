@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-08-14.jpg', name: '皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)' },
         { src: './images/2025-08-13.jpg', name: '一名男子从摩押附近的科罗纳拱门索降, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)' },
         { src: './images/2025-08-12.jpg', name: '非洲象群, 安博塞利国家公园, 肯尼亚 (© Chase Dekker/Minden Pictures)' },
         { src: './images/2025-08-11.jpg', name: '圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)' },
