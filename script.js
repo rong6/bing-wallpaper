@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-08-19.jpg', name: '祖马亚的复理层，巴斯克地区，西班牙 (© Eloi_Omella/Getty Images)' },
         { src: './images/2025-08-18.jpg', name: '雪崩湖步道，阿迪朗达克高峰区，纽约州，美国 (© Posnov/Getty Images)' },
         { src: './images/2025-08-17.jpg', name: '灵维格灯塔，维泽桑讷，丹麦 (© Caroline Brundle Bugge/Getty Images)' },
         { src: './images/2025-08-16.jpg', name: '色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)' },
