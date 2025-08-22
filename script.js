@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-08-22.jpg', name: '帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)' },
         { src: './images/2025-08-21.jpg', name: '穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)' },
         { src: './images/2025-08-20.jpg', name: '博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)' },
         { src: './images/2025-08-19.jpg', name: '祖马亚的复理层，巴斯克地区，西班牙 (© Eloi_Omella/Getty Images)' },
