@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-08-27.jpg', name: '瑟沃格湖，瓦加尔岛，法罗群岛 (© Anton Petrus/Getty Images)' },
         { src: './images/2025-08-26.jpg', name: '阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利 (© Feng Wei Photography/Getty Images)' },
         { src: './images/2025-08-25.jpg', name: '方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)' },
         { src: './images/2025-08-24.jpg', name: '欧洲黇鹿‌，英格兰 (© Enrique Aguirre Aves/Getty Images)' },
