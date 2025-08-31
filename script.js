@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-08-31.jpg', name: '杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国 (© Hawk Buckman/Getty Images)' },
         { src: './images/2025-08-30.jpg', name: '阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)' },
         { src: './images/2025-08-29.jpg', name: '马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)' },
         { src: './images/2025-08-28.jpg', name: '大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)' },
