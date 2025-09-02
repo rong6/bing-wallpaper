@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-09-02.jpg', name: '骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚 (© Inge Johnsson/Alamy Stock Photo)' },
         { src: './images/2025-09-01.jpg', name: '凯撒施图尔，巴登-符腾堡，德国 (© EyeEM Mobile GmbH/Getty Images)' },
         { src: './images/2025-08-31.jpg', name: '杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国 (© Hawk Buckman/Getty Images)' },
         { src: './images/2025-08-30.jpg', name: '阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)' },
