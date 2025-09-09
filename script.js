@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-09-09.jpg', name: '一只雌性欧亚红松鼠正在搬运苔藓，瑞士 (© Jean-Luc and Francoise Ziegler/Minden Pictures)' },
         { src: './images/2025-09-08.jpg', name: '乌节图书馆，新加坡 (© Darwin Fan/Getty Images)' },
         { src: './images/2025-09-07.jpg', name: '位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)' },
         { src: './images/2025-09-06.jpg', name: '棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国 (© jeremyborkat/Getty Images)' },
