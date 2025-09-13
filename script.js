@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-09-13.jpg', name: '烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)' },
         { src: './images/2025-09-12.jpg', name: '红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)' },
         { src: './images/2025-09-11.jpg', name: '蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙 (© Daniel Viñé Garcia/Getty Images)' },
         { src: './images/2025-09-10.jpg', name: '干草捆，北约克郡，英格兰 (© Nick Brundle Photography/Getty Images)' },
