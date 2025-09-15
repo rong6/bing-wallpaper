@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-09-15.jpg', name: '黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)' },
         { src: './images/2025-09-14.jpg', name: '奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)' },
         { src: './images/2025-09-13.jpg', name: '烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)' },
         { src: './images/2025-09-12.jpg', name: '红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)' },
