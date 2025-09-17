@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-09-17.jpg', name: '迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)' },
         { src: './images/2025-09-16.jpg', name: '从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)' },
         { src: './images/2025-09-15.jpg', name: '黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)' },
         { src: './images/2025-09-14.jpg', name: '奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)' },
