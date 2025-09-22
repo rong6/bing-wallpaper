@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-09-22.jpg', name: '秋日的白杨树，鱼湖国家森林，犹他州，美国 (© Danita Delimont/Getty Images)' },
         { src: './images/2025-09-21.jpg', name: '海獭，威廉王子湾，阿拉斯加州，美国 (© Gerald Corsi/Getty Images)' },
         { src: './images/2025-09-20.jpg', name: '慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)' },
         { src: './images/2025-09-19.jpg', name: '千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)' },
