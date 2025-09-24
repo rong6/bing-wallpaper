@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-09-24.jpg', name: '魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)' },
         { src: './images/2025-09-23.jpg', name: '航拍中国江苏省常州翠竹公园 (© Xu Changyu/Getty images)' },
         { src: './images/2025-09-22.jpg', name: '秋日的白杨树，鱼湖国家森林，犹他州，美国 (© Danita Delimont/Getty Images)' },
         { src: './images/2025-09-21.jpg', name: '海獭，威廉王子湾，阿拉斯加州，美国 (© Gerald Corsi/Getty Images)' },
