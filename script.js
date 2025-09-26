@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-09-26.jpg', name: '最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)' },
         { src: './images/2025-09-25.jpg', name: '奇陶尔加尔堡, 拉贾斯坦邦, 印度 (© chetansoni/Shutterstock)' },
         { src: './images/2025-09-24.jpg', name: '魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)' },
         { src: './images/2025-09-23.jpg', name: '航拍中国江苏省常州翠竹公园 (© Xu Changyu/Getty images)' },
