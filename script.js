@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-09-29.jpg', name: '豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)' },
         { src: './images/2025-09-28.jpg', name: '托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)' },
         { src: './images/2025-09-27.jpg', name: '坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)' },
         { src: './images/2025-09-26.jpg', name: '最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)' },
