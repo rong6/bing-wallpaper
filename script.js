@@ -12,7 +12,7 @@ const images = [
         { src: './images/2025-09-21.jpg', name: '海獭，威廉王子湾，阿拉斯加州，美国 (© Gerald Corsi/Getty Images)' },
         { src: './images/2025-09-20.jpg', name: '慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)' },
         { src: './images/2025-09-19.jpg', name: '千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)' },
-        { src: './images/2025-09-18.jpg', name: '邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)' },
+        { src: './images/2025-09-18.jpg', name: '邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O\'Connor/Getty Images)' },
         { src: './images/2025-09-17.jpg', name: '迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)' },
         { src: './images/2025-09-16.jpg', name: '从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)' },
         { src: './images/2025-09-15.jpg', name: '黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)' },
