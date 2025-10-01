@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-10-01.jpg', name: '克拉克山脉, 内华达山脉, 约塞米蒂国家公园, 加利福尼亚州, 美国 (© Robb Hirsch/TANDEM Stills + Motion)' },
         { src: './images/2025-09-30.jpg', name: '桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty Images)' },
         { src: './images/2025-09-29.jpg', name: '豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)' },
         { src: './images/2025-09-28.jpg', name: '托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)' },
