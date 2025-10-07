@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-10-07.jpg', name: '里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)' },
         { src: './images/2025-10-06.jpg', name: '安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)' },
         { src: './images/2025-10-05.jpg', name: '中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)' },
         { src: './images/2025-10-04.jpg', name: '从SpaceX载人龙飞船“奋进号”视角看到的国际空间站主太阳能电池阵列 (© NASA)' },
