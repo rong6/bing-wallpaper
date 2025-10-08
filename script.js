@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-10-08.jpg', name: '白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)' },
         { src: './images/2025-10-07.jpg', name: '里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)' },
         { src: './images/2025-10-06.jpg', name: '安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)' },
         { src: './images/2025-10-05.jpg', name: '中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)' },
