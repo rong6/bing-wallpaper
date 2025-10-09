@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-10-09.jpg', name: '‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)' },
         { src: './images/2025-10-08.jpg', name: '白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)' },
         { src: './images/2025-10-07.jpg', name: '里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)' },
         { src: './images/2025-10-06.jpg', name: '安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)' },
