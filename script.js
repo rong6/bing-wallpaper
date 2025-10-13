@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-10-13.jpg', name: '温巴赫峡谷瀑布，巴伐利亚州，德国 (© EyeEm Mobile GmbH/Getty Images)' },
         { src: './images/2025-10-12.jpg', name: '萨拉纳克湖村，阿迪朗达克山脉，纽约州，美国 (© DenisTangneyJr/Getty Images)' },
         { src: './images/2025-10-11.jpg', name: '林鸳鸯，美国 (© ps50ace/iStock/Getty Images)' },
         { src: './images/2025-10-10.jpg', name: '莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济 (© David Wall/SuperStock)' },
