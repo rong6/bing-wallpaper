@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-10-15.jpg', name: '紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)' },
         { src: './images/2025-10-14.jpg', name: '伊亚镇，圣托里尼岛，希腊 (© f9photos/Getty Images)' },
         { src: './images/2025-10-13.jpg', name: '温巴赫峡谷瀑布，巴伐利亚州，德国 (© EyeEm Mobile GmbH/Getty Images)' },
         { src: './images/2025-10-12.jpg', name: '萨拉纳克湖村，阿迪朗达克山脉，纽约州，美国 (© DenisTangneyJr/Getty Images)' },
