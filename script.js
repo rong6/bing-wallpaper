@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-10-19.jpg', name: '即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)' },
         { src: './images/2025-10-18.jpg', name: '西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)' },
         { src: './images/2025-10-17.jpg', name: '罗克河瀑布，上半岛，密歇根州，美国 (© Matt Anderson Photography/Getty Images)' },
         { src: './images/2025-10-16.jpg', name: '欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)' },
