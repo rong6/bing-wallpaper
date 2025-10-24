@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-10-24.jpg', name: '玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)' },
         { src: './images/2025-10-23.jpg', name: '雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物圈保护区, 印度 (© Oriol Alamany/naturepl.com)' },
         { src: './images/2025-10-22.jpg', name: '贝洛格拉齐克石林，保加利亚 (© EvaL Miko/Shutterstock)' },
         { src: './images/2025-10-21.jpg', name: '哥斯达黎加的厚嘴巨嘴鸟 (© Juan Carlos Vindas/Getty Images)' },
