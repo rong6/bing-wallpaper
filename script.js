@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-10-27.jpg', name: '被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)' },
         { src: './images/2025-10-26.jpg', name: '北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)' },
         { src: './images/2025-10-25.jpg', name: '马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)' },
         { src: './images/2025-10-24.jpg', name: '玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)' },
