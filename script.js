@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-10-29.jpg', name: '法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙 (© Lukas Jonaitis/Shutterstock)' },
         { src: './images/2025-10-28.jpg', name: '安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)' },
         { src: './images/2025-10-27.jpg', name: '被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)' },
         { src: './images/2025-10-26.jpg', name: '北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)' },
