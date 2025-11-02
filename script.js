@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-11-02.jpg', name: '岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)' },
         { src: './images/2025-11-01.jpg', name: '野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)' },
         { src: './images/2025-10-31.jpg', name: '布兰城堡入口, 布拉索夫, 罗马尼亚 (© blue sky in my pocket/Getty Images)' },
         { src: './images/2025-10-30.jpg', name: '杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度 (© f9photos/Getty Images)' },
