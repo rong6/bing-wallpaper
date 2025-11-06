@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-11-06.jpg', name: '哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)' },
         { src: './images/2025-11-05.jpg', name: '佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)' },
         { src: './images/2025-11-04.jpg', name: '塔桥, 伦敦, 英格兰 (© Nick Brundle Photography/Getty Images)' },
         { src: './images/2025-11-03.jpg', name: '在太平洋中游泳的水母, 格雷罗, 墨西哥 (© Christian Vizl/TANDEM Stills + Motion)' },
