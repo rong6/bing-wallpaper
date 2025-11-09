@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-11-09.jpg', name: '礁湖星云中的星际云，由哈勃太空望远镜拍摄 (© ESA/NASA)' },
         { src: './images/2025-11-08.jpg', name: '班登海滩的海蚀柱，俄勒冈州，美国 (© Grant Ordelheide/TANDEM Stills + Motion)' },
         { src: './images/2025-11-07.jpg', name: '丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)' },
         { src: './images/2025-11-06.jpg', name: '哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)' },
