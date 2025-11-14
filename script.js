@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-11-14.jpg', name: '海牛妈妈和幼崽，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)' },
         { src: './images/2025-11-13.jpg', name: '夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)' },
         { src: './images/2025-11-12.jpg', name: '斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)' },
         { src: './images/2025-11-11.jpg', name: '条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)' },
