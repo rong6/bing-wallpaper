@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-11-18.jpg', name: '雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)' },
         { src: './images/2025-11-17.jpg', name: '谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)' },
         { src: './images/2025-11-16.jpg', name: '里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国' },
         { src: './images/2025-11-15.jpg', name: '秋天的伊吕波坂，日光市，栃木县，日本 (© oneinchpunch/Shutterstock)' },
