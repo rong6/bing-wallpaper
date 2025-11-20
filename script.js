@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-11-20.jpg', name: '查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)' },
         { src: './images/2025-11-19.jpg', name: '匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)' },
         { src: './images/2025-11-18.jpg', name: '雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)' },
         { src: './images/2025-11-17.jpg', name: '谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)' },
