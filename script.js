@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-11-23.jpg', name: '马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)' },
         { src: './images/2025-11-22.jpg', name: '乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)' },
         { src: './images/2025-11-21.jpg', name: '罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)' },
         { src: './images/2025-11-20.jpg', name: '查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)' },
