@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-11-26.jpg', name: '特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙 (© cinoby/Getty Images)' },
         { src: './images/2025-11-25.jpg', name: '罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)' },
         { src: './images/2025-11-24.jpg', name: '瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)' },
         { src: './images/2025-11-23.jpg', name: '马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)' },
