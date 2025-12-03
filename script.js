@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-12-03.jpg', name: '日出时的沙丘鹤, ‌阿帕奇森林国家野生动物保护区, 新墨西哥州, 美国 (© Jack Dykinga/Minden Pictures)' },
         { src: './images/2025-12-02.jpg', name: '柳树湖与布莱克本山, 兰格尔－圣伊利亚斯国家公园暨保护区, 阿拉斯加州, 美国 (© Patrick J. Endres/Getty Images)' },
         { src: './images/2025-12-01.jpg', name: '冰山上天然形成的拱门, 南极洲 (© Gabrielle/Adobe Stock)' },
         { src: './images/2025-11-30.jpg', name: '莱比锡圣诞集市, 德国 (© Krzysztof Baranowski/Getty Images)' },
