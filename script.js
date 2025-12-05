@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-12-05.jpg', name: '科潘的玛雅遗址，洪都拉斯 (© diegograndi/Getty Images)' },
         { src: './images/2025-12-04.jpg', name: '马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚 (© Andy Rouse/naturepl.com)' },
         { src: './images/2025-12-03.jpg', name: '日出时的沙丘鹤, ‌阿帕奇森林国家野生动物保护区, 新墨西哥州, 美国 (© Jack Dykinga/Minden Pictures)' },
         { src: './images/2025-12-02.jpg', name: '柳树湖与布莱克本山, 兰格尔－圣伊利亚斯国家公园暨保护区, 阿拉斯加州, 美国 (© Patrick J. Endres/Getty Images)' },
