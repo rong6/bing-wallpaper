@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-12-08.jpg', name: '多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)' },
         { src: './images/2025-12-07.jpg', name: '雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)' },
         { src: './images/2025-12-06.jpg', name: '大沼泽地国家公园的蜘蛛网，佛罗里达州，美国 (© Troy Harrison/Getty Images)' },
         { src: './images/2025-12-05.jpg', name: '科潘的玛雅遗址，洪都拉斯 (© diegograndi/Getty Images)' },
