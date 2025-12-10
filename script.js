@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-12-10.jpg', name: '科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙 (© Elena Zolotova/Getty Images)' },
         { src: './images/2025-12-09.jpg', name: '原驼，北角，瓦尔德斯半岛, 阿根廷 (© Sylvain Cordier/naturepl.com)' },
         { src: './images/2025-12-08.jpg', name: '多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)' },
         { src: './images/2025-12-07.jpg', name: '雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)' },
