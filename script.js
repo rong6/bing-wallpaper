@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-12-14.jpg', name: '簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)' },
         { src: './images/2025-12-13.jpg', name: '默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)' },
         { src: './images/2025-12-12.jpg', name: '有斑点的一品红 (© DigiPub/Getty Images)' },
         { src: './images/2025-12-11.jpg', name: '从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔 (© shoults/Alamy)' },
