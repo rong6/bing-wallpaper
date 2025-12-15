@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-12-15.jpg', name: '斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰 (© Amith Nag Photography/Getty Images)' },
         { src: './images/2025-12-14.jpg', name: '簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)' },
         { src: './images/2025-12-13.jpg', name: '默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)' },
         { src: './images/2025-12-12.jpg', name: '有斑点的一品红 (© DigiPub/Getty Images)' },
