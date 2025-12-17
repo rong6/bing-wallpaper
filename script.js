@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-12-17.jpg', name: '在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)' },
         { src: './images/2025-12-16.jpg', name: '圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)' },
         { src: './images/2025-12-15.jpg', name: '斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰 (© Amith Nag Photography/Getty Images)' },
         { src: './images/2025-12-14.jpg', name: '簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)' },
