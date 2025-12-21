@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-12-21.jpg', name: '美丽的雾凇景色，大庆市，黑龙江省，中国 (© Dashu Xinganling/shutterstock)' },
         { src: './images/2025-12-20.jpg', name: '圣诞星形灯笼，德国 (© artas/Getty Images)' },
         { src: './images/2025-12-19.jpg', name: '博尔米奥的雪景，伦巴第大区，意大利 (© Roberto Moiola/Getty Images)' },
         { src: './images/2025-12-18.jpg', name: '太阳神庙，圆顶礁国家公园, 犹他州, 美国 (© Austin Cronnelly/TANDEM Stills + Motion)' },
