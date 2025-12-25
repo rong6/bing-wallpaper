@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-12-25.jpg', name: '海德堡圣诞市场上的雪球，德国 (© George Pachantouris/Getty Images)' },
         { src: './images/2025-12-24.jpg', name: '巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国 (© mauritius images GmbH/Alamy)' },
         { src: './images/2025-12-23.jpg', name: '冬雪中的驯鹿，拉普兰德，芬兰 (© Roberto Moiola/Getty Images)' },
         { src: './images/2025-12-22.jpg', name: '法兰克福老桥，德国 (© diegograndi/Getty Images)' },
