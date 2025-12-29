@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2025-12-29.jpg', name: '阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)' },
         { src: './images/2025-12-28.jpg', name: '马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)' },
         { src: './images/2025-12-27.jpg', name: '苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国 (© wanderluster/Getty Images)' },
         { src: './images/2025-12-26.jpg', name: '索尔兹伯里大教堂，威尔特郡，英格兰 (© Julian Elliott Photography/Getty Images)' },
