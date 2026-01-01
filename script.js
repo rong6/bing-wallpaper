@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-01-01.jpg', name: '正在睡觉的北极狐 (© Chansak Joe/Getty Images)' },
         { src: './images/2025-12-31.jpg', name: '除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images)' },
         { src: './images/2025-12-30.jpg', name: '晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)' },
         { src: './images/2025-12-29.jpg', name: '阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)' },
