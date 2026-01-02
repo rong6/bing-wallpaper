@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-01-02.jpg', name: '威尼斯鸟瞰图, 意大利 (© Clement Leonard/Getty Images)' },
         { src: './images/2026-01-01.jpg', name: '正在睡觉的北极狐 (© Chansak Joe/Getty Images)' },
         { src: './images/2025-12-31.jpg', name: '除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images)' },
         { src: './images/2025-12-30.jpg', name: '晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)' },
