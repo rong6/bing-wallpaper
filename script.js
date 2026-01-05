@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-01-05.jpg', name: '一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)' },
         { src: './images/2026-01-04.jpg', name: '国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)' },
         { src: './images/2026-01-03.jpg', name: '劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士 (© pongnathee kluaythong/Getty Images)' },
         { src: './images/2026-01-02.jpg', name: '威尼斯鸟瞰图, 意大利 (© Clement Leonard/Getty Images)' },
