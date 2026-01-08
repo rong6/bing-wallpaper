@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-01-08.jpg', name: '椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰 (© Philip Reeve/Photodisc/Getty Images)' },
         { src: './images/2026-01-07.jpg', name: '拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion)' },
         { src: './images/2026-01-06.jpg', name: '努克, 格陵兰 (© nevereverro/Getty Images)' },
         { src: './images/2026-01-05.jpg', name: '一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)' },
