@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-01-18.jpg', name: '白沙国家公园，新墨西哥州，美国 (© Francesco Carucci/Getty Images)' },
         { src: './images/2026-01-17.jpg', name: '保罗圣方济圣殿，那不勒斯，意大利 (© javarman3/Getty Images)' },
         { src: './images/2026-01-16.jpg', name: '埃托沙国家公园的豹子，纳米比亚 (© Norbert Achtelik/Cavan Images)' },
         { src: './images/2026-01-15.jpg', name: '雷讷渔村, 挪威 (© Roberto Moiola/Cavan Images/SuperStock)' },
