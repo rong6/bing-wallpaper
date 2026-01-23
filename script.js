@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-01-23.jpg', name: '绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)' },
         { src: './images/2026-01-22.jpg', name: '卡罗维瓦利，波西米亚，捷克共和国 (© Henryk Sadura/Getty Images)' },
         { src: './images/2026-01-21.jpg', name: '欧亚红松鼠 (© Galina Jacyna/Getty Images)' },
         { src: './images/2026-01-20.jpg', name: '栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)' },
