@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-01-24.jpg', name: '阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)' },
         { src: './images/2026-01-23.jpg', name: '绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)' },
         { src: './images/2026-01-22.jpg', name: '卡罗维瓦利，波西米亚，捷克共和国 (© Henryk Sadura/Getty Images)' },
         { src: './images/2026-01-21.jpg', name: '欧亚红松鼠 (© Galina Jacyna/Getty Images)' },
