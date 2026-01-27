@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-01-27.jpg', name: '卷羽鹈鹕，凯尔基尼湖，希腊 (© Guy Edwardes/naturepl.com)' },
         { src: './images/2026-01-26.jpg', name: '新天鹅堡，巴伐利亚州，德国 (© www.fredconcha.com @ All Rights Reserved/Getty Images)' },
         { src: './images/2026-01-25.jpg', name: '伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰 (© Alister Firth/Alamy)' },
         { src: './images/2026-01-24.jpg', name: '阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)' },
