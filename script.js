@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-02-01.jpg', name: '奥林达的彩色房子, 巴西 (© Robert Pekar/Alamy)' },
         { src: './images/2026-01-31.jpg', name: '平原斑马, 埃托沙国家公园, 纳米比亚 (© Mogens Trolle/Shutterstock)' },
         { src: './images/2026-01-30.jpg', name: '马拉齐翁的圣迈克尔山, 康沃尔郡, 英格兰 (© Baxter Bradford/robertharding/Getty Images)' },
         { src: './images/2026-01-29.jpg', name: '密尔沃基市政厅的八层开放式中庭，威斯康星州，美国 (© lavin photography/Getty Images)' },
