@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-02-05.jpg', name: '戈佐岛上的盐田, 马耳他 (© Marius Roman/Getty Images)' },
         { src: './images/2026-02-04.jpg', name: '雪中​​的红鸢 (© Carl Mckie/500px/Getty Images)' },
         { src: './images/2026-02-03.jpg', name: '翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国 (© Bill Stevenson/Cavan Images)' },
         { src: './images/2026-02-02.jpg', name: '阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利 (© Raimund Linke/Getty Images)' },
