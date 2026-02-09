@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-02-09.jpg', name: '阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)' },
         { src: './images/2026-02-08.jpg', name: '科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)' },
         { src: './images/2026-02-07.jpg', name: '玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)' },
         { src: './images/2026-02-06.jpg', name: '贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利 (© Tomasz Podolski/Getty Images)' },
