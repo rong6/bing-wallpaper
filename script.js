@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-02-15.jpg', name: '蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国 (© Kiliii Fish/Cavan Images)' },
         { src: './images/2026-02-14.jpg', name: '荷包牡丹 (© Dorene Hookey/Cavan Images)' },
         { src: './images/2026-02-13.jpg', name: '连接老挝和泰国的第三座泰老友谊大桥 (© chaiyut samsuk/Getty Images)' },
         { src: './images/2026-02-12.jpg', name: '蓝脚鲣鸟，加拉帕戈斯群岛, 厄瓜多尔 (© Karine Aigner/TANDEM Stills + Motion)' },
