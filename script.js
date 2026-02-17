@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-02-17.jpg', name: '中国春节传统汉字“福” (© DuKai摄影师/Getty Images)' },
         { src: './images/2026-02-16.jpg', name: '庆祝春节的龙形灯笼，中国西安 (© Pan Hong/Getty Images)' },
         { src: './images/2026-02-15.jpg', name: '蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国 (© Kiliii Fish/Cavan Images)' },
         { src: './images/2026-02-14.jpg', name: '荷包牡丹 (© Dorene Hookey/Cavan Images)' },
