@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-02-22.jpg', name: '马姆托尔山，德比郡，英格兰 (© john finney photography/Getty Images)' },
         { src: './images/2026-02-21.jpg', name: '一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国 (© Radomir Jakubowski/naturepl.com)' },
         { src: './images/2026-02-20.jpg', name: '约塞米蒂国家公园里的火瀑布，加利福尼亚州，美国 (© Jorge Villalba/Getty Images)' },
         { src: './images/2026-02-19.jpg', name: '乌塔克莱夫海滩的“龙之眼”岩层，挪威 (© reisegraf/Getty Images)' },
