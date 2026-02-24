@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-02-24.jpg', name: '大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion)' },
         { src: './images/2026-02-23.jpg', name: '大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com)' },
         { src: './images/2026-02-22.jpg', name: '马姆托尔山，德比郡，英格兰 (© john finney photography/Getty Images)' },
         { src: './images/2026-02-21.jpg', name: '一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国 (© Radomir Jakubowski/naturepl.com)' },
