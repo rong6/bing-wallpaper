@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-02-26.jpg', name: '大峡谷和科罗拉多河，亚利桑那州，美国 (© Matt Anderson Photography/Getty Images)' },
         { src: './images/2026-02-25.jpg', name: '门登霍尔冰川的冰洞，阿拉斯加州，美国 (© Designpics/Adobe Stock)' },
         { src: './images/2026-02-24.jpg', name: '大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion)' },
         { src: './images/2026-02-23.jpg', name: '大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com)' },
