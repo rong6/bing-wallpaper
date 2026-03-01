@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-03-01.jpg', name: '伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)' },
         { src: './images/2026-02-28.jpg', name: '奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国 (© Andrew Aylett/Getty Images)' },
         { src: './images/2026-02-27.jpg', name: '北极熊幼崽走过浮冰, 北极国家野生动物保护区, 阿拉斯加州, 美国 (© Steven Kazlowski/naturepl.com)' },
         { src: './images/2026-02-26.jpg', name: '大峡谷和科罗拉多河，亚利桑那州，美国 (© Matt Anderson Photography/Getty Images)' },
