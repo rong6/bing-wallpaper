@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-03-03.jpg', name: '元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)' },
         { src: './images/2026-03-02.jpg', name: '苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)' },
         { src: './images/2026-03-01.jpg', name: '伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)' },
         { src: './images/2026-02-28.jpg', name: '奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国 (© Andrew Aylett/Getty Images)' },
