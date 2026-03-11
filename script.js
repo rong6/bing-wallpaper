@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-03-11.jpg', name: '盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)' },
         { src: './images/2026-03-10.jpg', name: '赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)' },
         { src: './images/2026-03-09.jpg', name: '在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)' },
         { src: './images/2026-03-08.jpg', name: '乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)' },
