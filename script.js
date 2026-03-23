@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-03-23.jpg', name: '坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)' },
         { src: './images/2026-03-22.jpg', name: '坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)' },
         { src: './images/2026-03-21.jpg', name: '莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)' },
         { src: './images/2026-03-20.jpg', name: '春日樱花，上海，中国 (© junyyeung/Getty Images)' },
