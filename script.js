@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-03-25.jpg', name: '淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)' },
         { src: './images/2026-03-24.jpg', name: '东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)' },
         { src: './images/2026-03-23.jpg', name: '坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)' },
         { src: './images/2026-03-22.jpg', name: '坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)' },
