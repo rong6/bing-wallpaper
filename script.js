@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-04-04.jpg', name: '求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)' },
         { src: './images/2026-04-03.jpg', name: '阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)' },
         { src: './images/2026-04-02.jpg', name: '野花绽放, 中央谷地, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)' },
         { src: './images/2026-04-01.jpg', name: '粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)' },
