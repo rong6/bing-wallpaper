@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-04-11.jpg', name: '帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙 (© Gavin Hellier/Getty Images)' },
         { src: './images/2026-04-10.jpg', name: '卡鲁拉国家公园的两只幼年赤狐, 爱沙尼亚 (© Sven Zacek/Nature Picture Library)' },
         { src: './images/2026-04-09.jpg', name: '雪落瀑布，布雷肯比肯斯国家公园，威尔士 (© Guy Edwardes/Nature Picture Library)' },
         { src: './images/2026-04-08.jpg', name: '西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)' },
