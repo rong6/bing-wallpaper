@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-04-18.jpg', name: '摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)' },
         { src: './images/2026-04-17.jpg', name: '灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)' },
         { src: './images/2026-04-16.jpg', name: '斯卡吉特谷地郁金香花田, 华盛顿, 美国 (© Alan Majchrowicz/Getty Images)' },
         { src: './images/2026-04-15.jpg', name: '光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)' },
