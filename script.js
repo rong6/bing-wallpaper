@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-04-22.jpg', name: '阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)' },
         { src: './images/2026-04-21.jpg', name: '西欧刺猬，法国 (© Klein & Hubert/Nature Picture Library)' },
         { src: './images/2026-04-20.jpg', name: '夕阳下的峡谷地国家公园，莫阿布，犹他州，美国 (© Jason Hatfield/Tandem Stills + Motion)' },
         { src: './images/2026-04-19.jpg', name: '镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)' },
