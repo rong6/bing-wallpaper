@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-04-24.jpg', name: '湿地松和锯棕榈组成的森林吊床, 大沼泽地国家公园, 佛罗里达, 美国 (© Mary Liz Austin/Alamy)' },
         { src: './images/2026-04-23.jpg', name: '安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)' },
         { src: './images/2026-04-22.jpg', name: '阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)' },
         { src: './images/2026-04-21.jpg', name: '西欧刺猬，法国 (© Klein & Hubert/Nature Picture Library)' },
