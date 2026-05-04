@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-05-04.jpg', name: '乌莱德·索尔坦克萨尔，塔塔温区，突尼斯南部 (© Dark_Eni/Getty Images Plus)' },
         { src: './images/2026-05-03.jpg', name: '萨瓦纳草原的树上睡觉的豹子，马赛马拉国家保护区，肯尼亚 (© Klein & Hubert/Nature Picture Library)' },
         { src: './images/2026-05-02.jpg', name: '阿尔伯塔省贾斯珀国家公园中的小型湖泊与湿地，加拿大 (© Don White/Getty Images)' },
         { src: './images/2026-05-01.jpg', name: '中国的长城 (© aphotostory/Getty Images)' },
