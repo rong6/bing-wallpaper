@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-05-13.jpg', name: '拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)' },
         { src: './images/2026-05-12.jpg', name: '北极海鹦, 威尔士 (© FLPA/Alamy)' },
         { src: './images/2026-05-11.jpg', name: '从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)' },
         { src: './images/2026-05-10.jpg', name: '北极熊妈妈和幼崽在瓦普斯克国家公园玩耍, 马尼托巴省, 加拿大 (© Hao Jiang/Getty Images)' },
