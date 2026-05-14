@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-05-14.jpg', name: '中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利 (© bluejayphoto/Getty Images Plus)' },
         { src: './images/2026-05-13.jpg', name: '拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)' },
         { src: './images/2026-05-12.jpg', name: '北极海鹦, 威尔士 (© FLPA/Alamy)' },
         { src: './images/2026-05-11.jpg', name: '从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)' },
