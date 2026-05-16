@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-05-16.jpg', name: '史密斯岩州立公园, 俄勒冈州, 美国 (© Alex Ratson/Getty Images)' },
         { src: './images/2026-05-15.jpg', name: '一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)' },
         { src: './images/2026-05-14.jpg', name: '中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利 (© bluejayphoto/Getty Images Plus)' },
         { src: './images/2026-05-13.jpg', name: '拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)' },
