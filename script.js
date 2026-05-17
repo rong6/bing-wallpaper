@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-05-17.jpg', name: '仙纳度国家公园的玳瑁峰, 弗吉尼亚州, 美国 (© John Baggaley/Getty Images)' },
         { src: './images/2026-05-16.jpg', name: '史密斯岩州立公园, 俄勒冈州, 美国 (© Alex Ratson/Getty Images)' },
         { src: './images/2026-05-15.jpg', name: '一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)' },
         { src: './images/2026-05-14.jpg', name: '中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利 (© bluejayphoto/Getty Images Plus)' },
