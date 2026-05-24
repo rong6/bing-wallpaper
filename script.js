@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-05-24.jpg', name: '三峰自然公园，南蒂罗尔，意大利 (© Adisorn Fineday Chutikunakorn/Getty Images)' },
         { src: './images/2026-05-23.jpg', name: '与蝴蝶在一起的乌龟 (© Patrick Gallet/Getty Images)' },
         { src: './images/2026-05-22.jpg', name: '埃希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame_dpr/Alamy)' },
         { src: './images/2026-05-21.jpg', name: '四川省的茶梯田, 中国 (© lzf/Shutterstock)' },
