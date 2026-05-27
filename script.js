@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-05-27.jpg', name: '海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)' },
         { src: './images/2026-05-26.jpg', name: '盛开的羽扇豆，北加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)' },
         { src: './images/2026-05-25.jpg', name: '从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度 (© byheaven/Getty Images)' },
         { src: './images/2026-05-24.jpg', name: '三峰自然公园，南蒂罗尔，意大利 (© Adisorn Fineday Chutikunakorn/Getty Images)' },
