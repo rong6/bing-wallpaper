@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-06-03.jpg', name: '骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)' },
         { src: './images/2026-06-02.jpg', name: '穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)' },
         { src: './images/2026-06-01.jpg', name: '巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images)' },
         { src: './images/2026-05-31.jpg', name: '大沼泽地国家公园航拍景观，佛罗里达州，美国 (© Tetra Images/Getty Images)' },
