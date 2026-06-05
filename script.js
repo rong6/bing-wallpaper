@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-06-05.jpg', name: '从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images)' },
         { src: './images/2026-06-04.jpg', name: '梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures)' },
         { src: './images/2026-06-03.jpg', name: '骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)' },
         { src: './images/2026-06-02.jpg', name: '穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)' },
