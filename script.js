@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-06-07.jpg', name: '邓塞弗里克城堡遗址, 安特里姆郡, 北爱尔兰 (© Krzysztof Rogalski/Getty Images)' },
         { src: './images/2026-06-06.jpg', name: '纳奇兹小径公园大道, 图珀洛, 密西西比州, 美国 (© The best photo is earned/Getty Images Plus)' },
         { src: './images/2026-06-05.jpg', name: '从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images)' },
         { src: './images/2026-06-04.jpg', name: '梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures)' },
