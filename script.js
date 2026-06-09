@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-06-09.jpg', name: '韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)' },
         { src: './images/2026-06-08.jpg', name: '在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)' },
         { src: './images/2026-06-07.jpg', name: '邓塞弗里克城堡遗址, 安特里姆郡, 北爱尔兰 (© Krzysztof Rogalski/Getty Images)' },
         { src: './images/2026-06-06.jpg', name: '纳奇兹小径公园大道, 图珀洛, 密西西比州, 美国 (© The best photo is earned/Getty Images Plus)' },
