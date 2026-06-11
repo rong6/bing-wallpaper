@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-06-11.jpg', name: '退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)' },
         { src: './images/2026-06-10.jpg', name: '赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images)' },
         { src: './images/2026-06-09.jpg', name: '韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)' },
         { src: './images/2026-06-08.jpg', name: '在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)' },
