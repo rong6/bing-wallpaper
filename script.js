@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-06-13.jpg', name: '落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)' },
         { src: './images/2026-06-12.jpg', name: '黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)' },
         { src: './images/2026-06-11.jpg', name: '退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)' },
         { src: './images/2026-06-10.jpg', name: '赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images)' },
