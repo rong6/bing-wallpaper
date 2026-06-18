@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-06-18.jpg', name: '萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)' },
         { src: './images/2026-06-17.jpg', name: '特雷莫拉公路在圣哥达山口，艾罗洛，瑞士 (© Sandro Bisaro/Getty Images)' },
         { src: './images/2026-06-16.jpg', name: '七英里海滩附近的玳瑁海龟伴侣，大开曼岛，开曼群岛 (© Alex Mustard/Nature Picture Library)' },
         { src: './images/2026-06-15.jpg', name: '大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)' },
