@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-06-20.jpg', name: '漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)' },
         { src: './images/2026-06-19.jpg', name: '湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)' },
         { src: './images/2026-06-18.jpg', name: '萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)' },
         { src: './images/2026-06-17.jpg', name: '特雷莫拉公路在圣哥达山口，艾罗洛，瑞士 (© Sandro Bisaro/Getty Images)' },
