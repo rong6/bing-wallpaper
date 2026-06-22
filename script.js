@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-06-22.jpg', name: '奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)' },
         { src: './images/2026-06-21.jpg', name: '企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)' },
         { src: './images/2026-06-20.jpg', name: '漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)' },
         { src: './images/2026-06-19.jpg', name: '湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)' },
