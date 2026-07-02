@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-07-02.jpg', name: '埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)' },
         { src: './images/2026-07-01.jpg', name: '地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)' },
         { src: './images/2026-06-30.jpg', name: '马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)' },
         { src: './images/2026-06-29.jpg', name: '波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)' },
