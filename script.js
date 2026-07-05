@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-07-05.jpg', name: '瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)' },
         { src: './images/2026-07-04.jpg', name: '凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)' },
         { src: './images/2026-07-03.jpg', name: '小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)' },
         { src: './images/2026-07-02.jpg', name: '埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)' },
