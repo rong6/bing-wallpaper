@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-07-08.jpg', name: '阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)' },
         { src: './images/2026-07-07.jpg', name: '板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)' },
         { src: './images/2026-07-06.jpg', name: '锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)' },
         { src: './images/2026-07-05.jpg', name: '瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)' },
