@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-07-10.jpg', name: '陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)' },
         { src: './images/2026-07-09.jpg', name: '在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)' },
         { src: './images/2026-07-08.jpg', name: '阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)' },
         { src: './images/2026-07-07.jpg', name: '板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)' },
