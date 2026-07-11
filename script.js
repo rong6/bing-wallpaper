@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-07-11.jpg', name: '圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)' },
         { src: './images/2026-07-10.jpg', name: '陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)' },
         { src: './images/2026-07-09.jpg', name: '在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)' },
         { src: './images/2026-07-08.jpg', name: '阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)' },
