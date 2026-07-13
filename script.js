@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-07-13.jpg', name: '羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)' },
         { src: './images/2026-07-12.jpg', name: '卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)' },
         { src: './images/2026-07-11.jpg', name: '圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)' },
         { src: './images/2026-07-10.jpg', name: '陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)' },
