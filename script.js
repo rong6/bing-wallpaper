@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-07-18.jpg', name: '恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)' },
         { src: './images/2026-07-17.jpg', name: '瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)' },
         { src: './images/2026-07-16.jpg', name: '海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)' },
         { src: './images/2026-07-15.jpg', name: '玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)' },
