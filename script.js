@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-07-24.jpg', name: '美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)' },
         { src: './images/2026-07-23.jpg', name: '粉红色大丽花 (© Harald Biebel/Getty Images)' },
         { src: './images/2026-07-22.jpg', name: '珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)' },
         { src: './images/2026-07-21.jpg', name: '圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)' },
