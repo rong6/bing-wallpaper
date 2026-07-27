@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-07-27.jpg', name: '蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)' },
         { src: './images/2026-07-26.jpg', name: '红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)' },
         { src: './images/2026-07-25.jpg', name: '大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)' },
         { src: './images/2026-07-24.jpg', name: '美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)' },
