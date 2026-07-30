@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-07-30.jpg', name: '在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国 (© Westend61/Adobe Stock)' },
         { src: './images/2026-07-29.jpg', name: '孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)' },
         { src: './images/2026-07-28.jpg', name: '一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)' },
         { src: './images/2026-07-27.jpg', name: '蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)' },
