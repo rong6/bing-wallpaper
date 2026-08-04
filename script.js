@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-08-04.jpg', name: '佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)' },
         { src: './images/2026-08-03.jpg', name: '马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)' },
         { src: './images/2026-08-02.jpg', name: '马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)' },
         { src: './images/2026-08-01.jpg', name: '大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)' },
