@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-08-05.jpg', name: '非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)' },
         { src: './images/2026-08-04.jpg', name: '佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)' },
         { src: './images/2026-08-03.jpg', name: '马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)' },
         { src: './images/2026-08-02.jpg', name: '马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)' },
