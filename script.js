@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-08-08.jpg', name: '蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)' },
         { src: './images/2026-08-07.jpg', name: '圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)' },
         { src: './images/2026-08-06.jpg', name: '马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)' },
         { src: './images/2026-08-05.jpg', name: '非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)' },
