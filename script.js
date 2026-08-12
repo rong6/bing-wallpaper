@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-08-12.jpg', name: '安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)' },
         { src: './images/2026-08-11.jpg', name: '哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)' },
         { src: './images/2026-08-10.jpg', name: '约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)' },
         { src: './images/2026-08-09.jpg', name: '让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)' },
