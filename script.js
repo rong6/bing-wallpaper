@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-08-15.jpg', name: '圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)' },
         { src: './images/2026-08-14.jpg', name: '扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)' },
         { src: './images/2026-08-13.jpg', name: '泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images)' },
         { src: './images/2026-08-12.jpg', name: '安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)' },
