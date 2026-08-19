@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-08-19.jpg', name: '怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)' },
         { src: './images/2026-08-18.jpg', name: '弗留利要塞城市帕尔马诺瓦航拍图，意大利 (© Riccardo Saponi/Getty Images)' },
         { src: './images/2026-08-17.jpg', name: '海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)' },
         { src: './images/2026-08-16.jpg', name: '戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)' },
