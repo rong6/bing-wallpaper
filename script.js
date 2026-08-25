@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-08-25.jpg', name: '红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)' },
         { src: './images/2026-08-24.jpg', name: '布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)' },
         { src: './images/2026-08-23.jpg', name: '在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)' },
         { src: './images/2026-08-22.jpg', name: '普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)' },
