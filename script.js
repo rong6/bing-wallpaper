@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-08-28.jpg', name: '涨潮时的圣米歇尔山，芒什省，诺曼底，法国 (© Clement LEONARD/Getty Images)' },
         { src: './images/2026-08-27.jpg', name: '日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)' },
         { src: './images/2026-08-26.jpg', name: '基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)' },
         { src: './images/2026-08-25.jpg', name: '红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)' },
