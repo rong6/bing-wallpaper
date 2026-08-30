@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-08-30.jpg', name: '鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)' },
         { src: './images/2026-08-29.jpg', name: '冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)' },
         { src: './images/2026-08-28.jpg', name: '涨潮时的圣米歇尔山，芒什省，诺曼底，法国 (© Clement LEONARD/Getty Images)' },
         { src: './images/2026-08-27.jpg', name: '日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)' },
