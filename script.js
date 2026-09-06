@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-09-06.jpg', name: '菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚 (© tracielouise/Getty Images)' },
         { src: './images/2026-09-05.jpg', name: '龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)' },
         { src: './images/2026-09-04.jpg', name: '韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国 (© bluejayphoto/Getty Images)' },
         { src: './images/2026-09-03.jpg', name: '郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)' },
