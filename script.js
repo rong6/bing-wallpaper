@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-09-09.jpg', name: '安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)' },
         { src: './images/2026-09-08.jpg', name: '东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)' },
         { src: './images/2026-09-07.jpg', name: '老市政厅，班贝格，德国 (© SCStock/Getty Images)' },
         { src: './images/2026-09-06.jpg', name: '菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚 (© tracielouise/Getty Images)' },
