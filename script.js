@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-09-11.jpg', name: '滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)' },
         { src: './images/2026-09-10.jpg', name: '奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)' },
         { src: './images/2026-09-09.jpg', name: '安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)' },
         { src: './images/2026-09-08.jpg', name: '东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)' },
