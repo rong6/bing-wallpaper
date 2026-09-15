@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-09-15.jpg', name: '红绿金刚鹦鹉 (© markes51/Getty Images)' },
         { src: './images/2026-09-14.jpg', name: '地肤田，中国 (© lingqi xie/Getty Images)' },
         { src: './images/2026-09-13.jpg', name: '米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)' },
         { src: './images/2026-09-12.jpg', name: '墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)' },
