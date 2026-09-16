@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-09-16.jpg', name: '斯瓦尔巴群岛玩耍的北极熊幼崽，挪威 (© Danny Green/Nature Picture Library)' },
         { src: './images/2026-09-15.jpg', name: '红绿金刚鹦鹉 (© markes51/Getty Images)' },
         { src: './images/2026-09-14.jpg', name: '地肤田，中国 (© lingqi xie/Getty Images)' },
         { src: './images/2026-09-13.jpg', name: '米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)' },
