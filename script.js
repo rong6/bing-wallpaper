@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-09-19.jpg', name: '阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)' },
         { src: './images/2026-09-18.jpg', name: '温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)' },
         { src: './images/2026-09-17.jpg', name: '桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)' },
         { src: './images/2026-09-16.jpg', name: '斯瓦尔巴群岛玩耍的北极熊幼崽，挪威 (© Danny Green/Nature Picture Library)' },
