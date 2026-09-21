@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-09-21.jpg', name: '正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)' },
         { src: './images/2026-09-20.jpg', name: '日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)' },
         { src: './images/2026-09-19.jpg', name: '阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)' },
         { src: './images/2026-09-18.jpg', name: '温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)' },
