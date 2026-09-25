@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-09-25.jpg', name: '庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)' },
         { src: './images/2026-09-24.jpg', name: '黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)' },
         { src: './images/2026-09-23.jpg', name: '地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)' },
         { src: './images/2026-09-22.jpg', name: '瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)' },
