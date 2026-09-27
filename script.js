@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-09-27.jpg', name: '海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)' },
         { src: './images/2026-09-26.jpg', name: '熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)' },
         { src: './images/2026-09-25.jpg', name: '庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)' },
         { src: './images/2026-09-24.jpg', name: '黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)' },
