@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-09-28.jpg', name: '斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)' },
         { src: './images/2026-09-27.jpg', name: '海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)' },
         { src: './images/2026-09-26.jpg', name: '熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)' },
         { src: './images/2026-09-25.jpg', name: '庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)' },
