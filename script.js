@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-01.jpg', name: '奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)' },
         { src: './images/2026-09-30.jpg', name: '雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)' },
         { src: './images/2026-09-29.jpg', name: '卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)' },
         { src: './images/2026-09-28.jpg', name: '斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)' },
