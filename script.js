@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-02.jpg', name: '查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)' },
         { src: './images/2026-10-01.jpg', name: '奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)' },
         { src: './images/2026-09-30.jpg', name: '雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)' },
         { src: './images/2026-09-29.jpg', name: '卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)' },
