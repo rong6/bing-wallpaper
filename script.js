@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-10.jpg', name: '蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)' },
         { src: './images/2026-10-09.jpg', name: '桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)' },
         { src: './images/2026-10-08.jpg', name: '印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)' },
         { src: './images/2026-10-07.jpg', name: '覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)' },
