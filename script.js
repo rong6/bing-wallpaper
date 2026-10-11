@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-11.jpg', name: '格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)' },
         { src: './images/2026-10-10.jpg', name: '蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)' },
         { src: './images/2026-10-09.jpg', name: '桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)' },
         { src: './images/2026-10-08.jpg', name: '印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)' },
