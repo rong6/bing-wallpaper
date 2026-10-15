@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-15.jpg', name: '弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)' },
         { src: './images/2026-10-14.jpg', name: '侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)' },
         { src: './images/2026-10-13.jpg', name: '普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)' },
         { src: './images/2026-10-12.jpg', name: '曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)' },
