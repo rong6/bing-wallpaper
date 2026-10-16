@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-16.jpg', name: '斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)' },
         { src: './images/2026-10-15.jpg', name: '弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)' },
         { src: './images/2026-10-14.jpg', name: '侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)' },
         { src: './images/2026-10-13.jpg', name: '普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)' },
