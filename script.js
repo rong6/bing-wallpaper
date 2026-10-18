@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-18.jpg', name: '多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)' },
         { src: './images/2026-10-17.jpg', name: '肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)' },
         { src: './images/2026-10-16.jpg', name: '斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)' },
         { src: './images/2026-10-15.jpg', name: '弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)' },
