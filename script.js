@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-20.jpg', name: '褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)' },
         { src: './images/2026-10-19.jpg', name: '大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)' },
         { src: './images/2026-10-18.jpg', name: '多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)' },
         { src: './images/2026-10-17.jpg', name: '肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)' },
