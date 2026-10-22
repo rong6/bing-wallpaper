@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-22.jpg', name: '内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images)' },
         { src: './images/2026-10-21.jpg', name: '香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)' },
         { src: './images/2026-10-20.jpg', name: '褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)' },
         { src: './images/2026-10-19.jpg', name: '大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)' },
