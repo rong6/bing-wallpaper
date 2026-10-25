@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-25.jpg', name: '玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)' },
         { src: './images/2026-10-24.jpg', name: '皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)' },
         { src: './images/2026-10-23.jpg', name: '两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)' },
         { src: './images/2026-10-22.jpg', name: '内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images)' },
