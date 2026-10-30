@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-10-30.jpg', name: '沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images)' },
         { src: './images/2026-10-29.jpg', name: '立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)' },
         { src: './images/2026-10-28.jpg', name: '库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)' },
         { src: './images/2026-10-27.jpg', name: '秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)' },
