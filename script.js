@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-11-06.jpg', name: '竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)' },
         { src: './images/2026-11-05.jpg', name: '石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)' },
         { src: './images/2026-11-04.jpg', name: '五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)' },
         { src: './images/2026-11-03.jpg', name: '布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)' },
