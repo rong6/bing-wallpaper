@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-11-08.jpg', name: '排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)' },
         { src: './images/2026-11-07.jpg', name: '草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)' },
         { src: './images/2026-11-06.jpg', name: '竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)' },
         { src: './images/2026-11-05.jpg', name: '石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)' },
