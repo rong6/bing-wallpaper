@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-11-12.jpg', name: '北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)' },
         { src: './images/2026-11-11.jpg', name: '大西洋森林，巴西 (© FG Trade/Getty Images)' },
         { src: './images/2026-11-10.jpg', name: '玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)' },
         { src: './images/2026-11-09.jpg', name: '特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)' },
