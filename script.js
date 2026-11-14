@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-11-14.jpg', name: '中国香港维多利亚港 (© Juan Romero/Cavan Images)' },
         { src: './images/2026-11-13.jpg', name: '亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)' },
         { src: './images/2026-11-12.jpg', name: '北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)' },
         { src: './images/2026-11-11.jpg', name: '大西洋森林，巴西 (© FG Trade/Getty Images)' },
