@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-11-18.jpg', name: '一对仓鸮 (© Zahoor Salmi/Getty Images)' },
         { src: './images/2026-11-17.jpg', name: '雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)' },
         { src: './images/2026-11-16.jpg', name: '美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)' },
         { src: './images/2026-11-15.jpg', name: '覆霜的红叶杜鹃 (© avoferten/Shutterstock)' },
