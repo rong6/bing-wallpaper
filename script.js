@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-11-23.jpg', name: '蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)' },
         { src: './images/2026-11-22.jpg', name: '西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)' },
         { src: './images/2026-11-21.jpg', name: '法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)' },
         { src: './images/2026-11-20.jpg', name: '正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)' },
