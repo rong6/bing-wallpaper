@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-11-24.jpg', name: '红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)' },
         { src: './images/2026-11-23.jpg', name: '蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)' },
         { src: './images/2026-11-22.jpg', name: '西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)' },
         { src: './images/2026-11-21.jpg', name: '法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)' },
