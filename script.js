@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-11-25.jpg', name: '日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)' },
         { src: './images/2026-11-24.jpg', name: '红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)' },
         { src: './images/2026-11-23.jpg', name: '蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)' },
         { src: './images/2026-11-22.jpg', name: '西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)' },
