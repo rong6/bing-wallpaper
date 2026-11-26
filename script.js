@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-11-26.jpg', name: '怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)' },
         { src: './images/2026-11-25.jpg', name: '日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)' },
         { src: './images/2026-11-24.jpg', name: '红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)' },
         { src: './images/2026-11-23.jpg', name: '蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)' },
