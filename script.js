@@ -1,4 +1,5 @@
 const images = [
+        { src: './images/2026-11-28.jpg', name: '捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)' },
         { src: './images/2026-11-27.jpg', name: '夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)' },
         { src: './images/2026-11-26.jpg', name: '怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)' },
         { src: './images/2026-11-25.jpg', name: '日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)' },
